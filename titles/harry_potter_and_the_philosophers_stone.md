@@ -13,13 +13,13 @@
 | Genre | Fantasy, Young Adult, Magic |
 | Format | Paperback |
 | Status | Currently Reading |
-| Pages Read | 0 / 342 |
-| Purchase Date | 17th March 2025 |
+| Pages Read | - / 342 |
+| Purchase Date | - |
 | Purchase Platform | BookOwls |
 | Purchase Price | 238.59 BDT |
 | Total Read Time | - |
-| Start Date | 19th February 2026 |
-| Last Read | 19th February 2026 |
+| Start Date | - |
+| Last Read | - |
 | End Date | - |
 | Rating | - / 10 |
 
