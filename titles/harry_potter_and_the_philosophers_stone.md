@@ -1,6 +1,6 @@
 # Harry Potter and the Philosopher's Stone
 
-![Cover Image](../utils/covers/harry_potter_and_the_philosophers_stone.png)
+![Cover Image](../utils/covers/harry_potter_and_the_philosophers_stone.webp)
 
 | | |
 |---|---|
