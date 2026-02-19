@@ -11,9 +11,9 @@
 | Publisher | Pottermore Publishing |
 | Language | Original: English / Read In: English |
 | Genre | Fantasy, Young Adult, Magic |
-| Format | E-book |
+| Format | Paperback |
 | Status | Currently Reading |
-| Pages Read | 0 / 223 |
+| Pages Read | 0 / 342 |
 | Purchase Date | 17th March 2025 |
 | Purchase Platform | BookOwls |
 | Purchase Price | 238.59 BDT |

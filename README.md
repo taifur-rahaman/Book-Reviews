@@ -39,7 +39,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 0/223 | 📗 Reading |
+| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 0/342 | 📗 Reading |
 
 ---
 
@@ -54,7 +54,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [The Titan's Curse](titles/the_titans_curse.md) | Rick Riordan | ⭐ 10/10 | 312/312 | ✅ Completed |
 | [The Battle of the Labyrinth](titles/the_battle_of_the_labyrinth.md) | Rick Riordan | ⭐ 8/10 | 342/342 | ✅ Completed |
 | [The Last Olympian](titles/the_last_olympian.md) | Rick Riordan | ⭐ 9.5/10 | 360/360 | ✅ Completed |
-| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 0/223 | 📗 Reading |
+| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 0/342 | 📗 Reading |
 
 ---
 

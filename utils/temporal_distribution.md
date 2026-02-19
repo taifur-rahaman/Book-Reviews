@@ -55,7 +55,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **#** | **Title** | **Rating** | **Pages** | **Read Time** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | - | 223 | - | 📗 Reading |
+| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | - | 342 | - | 📗 Reading |
 
 ---
 
