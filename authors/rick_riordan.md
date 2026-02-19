@@ -49,6 +49,9 @@ Riordan's career began with adult mystery fiction before he pivoted to mythology
 | 3 | [The Titan's Curse](../titles/the_titans_curse.md) | 2007 | ✅ |
 | 4 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | 2008 | ✅ |
 | 5 | [The Last Olympian](../titles/the_last_olympian.md) | 2009 | ✅ |
+| 6 | The Chalice of the Gods | 2023 | ❌ |
+| 7 | Wrath of the Triple Goddess | 2024 | ❌ |
+
 
 #### Series 2: The Heroes of Olympus
 | **#** | **Title** | **Year** | **Read** |
@@ -73,6 +76,16 @@ Riordan's career began with adult mystery fiction before he pivoted to mythology
 |:---:|:---|:---:|:---:|
 | 1 | The Sun and the Star | 2023 | ❌ |
 
+#### Companion Books
+| **Title** | **Year** | **Read** |
+|:---|:---:|:---:|
+| The Demigod Files | 2009 | ❌ |
+| The Demigod Diaries | 2012 | ❌ |
+| Percy Jackson's Greek Gods | 2014 | ❌ |
+| Percy Jackson's Greek Heroes | 2015 | ❌ |
+| Camp Half-Blood Confidential | 2017 | ❌ |
+| Camp Jupiter Classified | 2020 | ❌ |
+
 ---
 
 ### 🐍 The Kane Chronicles *(Egyptian Mythology)*
@@ -81,6 +94,12 @@ Riordan's career began with adult mystery fiction before he pivoted to mythology
 | 1 | The Red Pyramid | 2010 | ❌ |
 | 2 | The Throne of Fire | 2011 | ❌ |
 | 3 | The Serpent's Shadow | 2012 | ❌ |
+
+#### Companion Books & Crossovers
+| **Title** | **Year** | **Read** |
+|:---|:---:|:---:|
+| The Kane Chronicles Survival Guide | 2012 | ❌ |
+| Demigods & Magicians *(Crossover Collection)* | 2016 | ❌ |
 
 ---
 
@@ -91,6 +110,25 @@ Riordan's career began with adult mystery fiction before he pivoted to mythology
 | 2 | The Hammer of Thor | 2016 | ❌ |
 | 3 | The Ship of the Dead | 2017 | ❌ |
 
+#### Companion Books
+| **Title** | **Year** | **Read** |
+|:---|:---:|:---:|
+| For Magnus Chase: Hotel Valhalla | 2016 | ❌ |
+| 9 from the Nine Worlds | 2018 | ❌ |
+
+---
+
+### 🕵️ Tres Navarre Series *(Adult Mystery)*
+| **#** | **Title** | **Year** | **Read** |
+|:---:|:---|:---:|:---:|
+| 1 | Big Red Tequila | 1997 | ❌ |
+| 2 | The Widower's Two-Step | 1998 | ❌ |
+| 3 | The Last King of Texas | 2000 | ❌ |
+| 4 | The Devil Went Down to Austin | 2001 | ❌ |
+| 5 | Southtown | 2004 | ❌ |
+| 6 | Mission Road | 2005 | ❌ |
+| 7 | Rebel Island | 2007 | ❌ |
+
 ---
 
 ### 🌊 Standalone & Other
@@ -98,6 +136,22 @@ Riordan's career began with adult mystery fiction before he pivoted to mythology
 |:---|:---:|:---:|
 | Daughter of the Deep | 2021 | ❌ |
 | The Maze of Bones *(The 39 Clues #1)* | 2008 | ❌ |
+
+---
+
+## 📜 Recommended Reading Order (Riordanverse)
+
+The most common recommendation is to read the series in publication order to avoid spoilers and follow the chronological progression of the universe.
+
+1. **Percy Jackson and the Olympians** (Books 1-5)
+2. **The Kane Chronicles** (Can be read anytime, but before *Demigods & Magicians*)
+3. **The Heroes of Olympus**
+4. **The Demigod Diaries** (Contains stories relevant to HoO)
+5. **Demigods & Magicians** (Crossovers)
+6. **Magnus Chase and the Gods of Asgard**
+7. **The Trials of Apollo**
+8. **The Sun and the Star**
+9. **Percy Jackson and the Olympians** (Books 6-7)
 
 ---
 
