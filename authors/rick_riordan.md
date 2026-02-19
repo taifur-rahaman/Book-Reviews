@@ -1,5 +1,8 @@
 # Rick Riordan
 
+![Cover Image](../utils/covers/rick_riordan.png)
+
+
 | | |
 |---|---|
 | Full Name | Richard Russell Riordan Jr. |
