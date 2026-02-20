@@ -13,7 +13,7 @@
 | Genre | Young Adult, Epistolary, Coming-of-Age |
 | Format | Paperback |
 | Status | Reading |
-| Pages Read | 6 / 213 |
+| Pages Read | 18 / 213 |
 | Purchase Date | 2nd January 2024 |
 | Purchase Platform | Daraz.com |
 | Purchase Price | 176.00 BDT |
@@ -63,6 +63,14 @@ I relate to Charlie a lot because I am also quiet, shy, and socially awkward. Bu
 - Aunt Helen (mother's sister) was his favorite person, but something happened to her.
 - His father is dismissive of Charlie's inquiries about her, even slapping him once for "hurting Aunt Helen's feelings."
 - His mother eventually revealed what happened after some wine, but Charlie forgot to include it in the letter due to tiredness.
+
+### Pages 16-18 Observations
+
+> "My dad does not like to go to the cemetery because it gives him the creeps but I don't mind going at all because my aunt Helen is buried here." — Charlie
+
+Man!!!! Aunt Helen died.
+
+> "I walk to the kitchen and I saw my dad making a sandwich and crying he was crying harder than my even my mom and I couldn't believe it. When he finished making his sandwich he put away the things in the refrigerator and stop crying and wipe his eyes and saw me. Then, he walked up, patted my shoulder and said 'this is our little secret, okay, champ?'" — Charlie
 
 ### Rating Breakdown
 

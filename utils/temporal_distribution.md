@@ -11,7 +11,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Books Read** | 6 |
-| **Total Pages Read** | 1,673 |
+| **Total Pages Read** | 1,685 |
 | **Books Completed** | 5 |
 | **Currently Reading** | 1 |
 | **On Hold** | 0 |
@@ -31,7 +31,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | Historical Fiction | 0 | 0 | N/A |
 | Romance | 0 | 0 | N/A |
 | Horror & Supernatural | 0 | 0 | N/A |
-| Literary Fiction | 1 | 0 | - |
+| Literary Fiction | 1 | 18 | - |
 | Non-Fiction | 0 | 0 | N/A |
 | Philosophical & Religious | 0 | 0 | N/A |
 | Humor & Satire | 0 | 0 | N/A |
@@ -69,7 +69,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 0 | 6 |
+| February 2026 | 1 | 0 | 18 |
 
 
 ---
