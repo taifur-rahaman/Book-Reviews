@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 19th February 2026
+> **Last Updated:** 20th February 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -11,7 +11,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Books Read** | 6 |
-| **Total Pages Read** | 1,667 |
+| **Total Pages Read** | 1,673 |
 | **Books Completed** | 5 |
 | **Currently Reading** | 1 |
 | **On Hold** | 0 |
@@ -69,7 +69,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 0 | 0 |
+| February 2026 | 1 | 0 | 6 |
 
 
 ---
