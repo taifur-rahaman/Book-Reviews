@@ -9,7 +9,7 @@
 | Publication Year | 1999 |
 | Author | [Stephen Chbosky](../authors/stephen_chbosky.md) |
 | Publisher | Gallery Books |
-| Language | Original: English |
+| Language | Original: English / Read In: English |
 | Genre | Young Adult, Epistolary, Coming-of-Age |
 | Format | Paperback |
 | Status | Reading |
