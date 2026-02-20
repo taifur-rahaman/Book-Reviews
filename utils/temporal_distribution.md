@@ -10,10 +10,10 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 6 |
+| **Total Books Read** | 5 |
 | **Total Pages Read** | 1,667 |
 | **Books Completed** | 5 |
-| **Currently Reading** | 1 |
+| **Currently Reading** | 0 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy & Science Fiction |
@@ -51,13 +51,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ---
 
-### ⚡ The Harry Potter Series — J.K. Rowling
 
-| **#** | **Title** | **Rating** | **Pages** | **Read Time** | **Status** |
-|:---:|:---|:---:|:---:|:---:|:---:|
-| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | - | 342 | - | 📗 Reading |
-
----
 
 ## �📈 Reading Timeline
 
@@ -72,7 +66,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
-| February 2026 | 1 | 0 | 0 |
+
 
 ---
 
@@ -92,7 +86,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Title** | **Author** | **Rating** | **Start Date** |
 |:---|:---|:---:|:---:|
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | - | 19th Feb 2026 |
+*No books currently being read.*
 
 ---
 
