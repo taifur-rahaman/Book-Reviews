@@ -22,10 +22,10 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Books Documented** | 5 |
+| **📚 Books Documented** | 6 |
 | **📄 Pages Read** | 1,667 |
 | **✅ Books Completed** | 5 |
-| **📗 Currently Reading** | 0 |
+| **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
 
@@ -40,14 +40,14 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
 
-*No books currently being read.*
+| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 0/213 | 📗 Reading |
 
 
 ---
 
 ## 📚 Books by Genre
 
-### 🌌 Fantasy & Science Fiction
+### 🌌 Fantasy
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
@@ -58,7 +58,19 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [The Last Olympian](titles/the_last_olympian.md) | Rick Riordan | ⭐ 9.5/10 | 360/360 | ✅ Completed |
 
 
+
 ---
+
+### 🚀 Science Fiction
+
+| 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|
+
+*No books logged yet. Add your first science fiction book!*
+
+---
+
+
 
 ### 🔍 Mystery & Thriller
 
@@ -66,6 +78,15 @@ A personal collection tracking books read — novels, non-fiction, short story c
 |:---|:---|:---:|:---:|:---:|
 
 *No books logged yet. Add your first mystery or thriller!*
+
+---
+
+### 🕵️ Crime & Detective
+
+| 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|
+
+*No books logged yet. Add your first crime or detective book!*
 
 ---
 
@@ -101,7 +122,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
 
-*No books logged yet. Add your first literary fiction!*
+| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 0/213 | 📗 Reading |
 
 ---
 
@@ -120,6 +141,15 @@ A personal collection tracking books read — novels, non-fiction, short story c
 |:---|:---|:---:|:---:|:---:|
 
 *No books logged yet. Add your first humor or satire book!*
+
+---
+
+### 🛐 Philosophical & Religious
+
+| 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
+|:---|:---|:---:|:---:|:---:|
+
+*No books logged yet. Add your first philosophical or religious book!*
 
 ---
 
