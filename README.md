@@ -39,7 +39,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-
 | [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 0/213 | 📗 Reading |
 
 
@@ -121,7 +120,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-
 | [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 0/213 | 📗 Reading |
 
 ---
