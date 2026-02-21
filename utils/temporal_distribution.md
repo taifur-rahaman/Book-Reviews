@@ -133,3 +133,4 @@ This document tracks the temporal distribution of books read, organized by genre
 - This document is automatically updated as new books are logged
 - Page counts include all pages read, even for dropped or on-hold books
 - Ratings are based on the Reader's personal 10-point scale
+- Time and reading notes are logged in an app called Bookmory
