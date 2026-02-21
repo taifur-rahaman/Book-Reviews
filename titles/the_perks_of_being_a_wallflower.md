@@ -13,13 +13,13 @@
 | Genre | Young Adult, Epistolary, Coming-of-Age |
 | Format | Paperback |
 | Status | Reading |
-| Pages Read | 29 / 213 |
+| Pages Read | 42 / 213 |
 | Purchase Date | 2nd January 2024 |
 | Purchase Platform | Daraz.com |
 | Purchase Price | 176.00 BDT |
 | Total Read Time | - |
 | Start Date | 20th February 2026 |
-| Last Read | 20th February 2026 |
+| Last Read | 21st February 2026 |
 | End Date | - |
 | Rating | - |
 
@@ -82,6 +82,14 @@ Charlie is this 15-year-old kid just trying to figure life out, dealing with all
 Honestly, I can really relate to Charlie. Up to this point (around page 29), almost everything he does or thinks about are things I’ve either done or at least seriously considered. For example, he mentions confessing to the girl he’s crushing on (Sam) that he saw her naked in his dream. I actually did something similar with my crush! The big difference is that Sam handled it surprisingly well, whereas Proma got really offended by my honesty. 
 
 There's so much more I’m finding relatable about Charlie, but I feel like I'll be unpacking all of that slowly, exactly the way he does with his letters.
+
+### Pages 29-42 Observations
+
+> "Listen, Charlie. Brad doesn't want people to know. I need you to promise that you won't tell anyone. this will be our little secret, Okay?" — Patrick, p. 37
+
+Charlie is a kid who doesn't know anything about the world and people took advantage of it, like his brother and sister—well, maybe unknowingly. When he was 12, his brother held a party in the house. The so-called legendary high school party. Even though Charlie's brother was 16 at the time, he was drunk and no one knows how he ended up on the roof at the end of the party. His sister was kissing some senior. And Charlie? He had it the worst. A senior couple came to his room and started to have sex and a bj in front of a minor (12), and to make matters worse, Charlie's sister came to the room suddenly. That made the couple leave, but rather than defending and comforting Charlie, she called him a pervert. Sad.
+
+In Charlie's first party at Bob's house with Sam and Patrick, he got stoned eating special brownies. While being stoned and searching for the washroom, he caught Patrick and Brad (the high school football star) kissing in a room. That's when Patrick said the quote above. And that's how he got the name Wallflower (given by Patrick). Someone who sees things, keeps quiet about it, and understands.
 
 ### Rating Breakdown
 
