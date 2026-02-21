@@ -15,6 +15,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [📖 Currently Reading](#-currently-reading) | Books currently in progress |
 | [📚 Books by Genre](#-books-by-genre) | Browse all books by genre |
 | [✍️ Authors](authors/README.md) | Browse author profiles |
+| [⭐ Recommendations](utils/recommendations.md) | View top books categorized by various sections |
 
 ---
 
@@ -32,6 +33,8 @@ A personal collection tracking books read — novels, non-fiction, short story c
 ---
 
 [⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
+
+[⭐ View Recommendations](utils/recommendations.md)
 
 ---
 
