@@ -40,9 +40,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ## 📖 Books by Series & Chronicles
 
-### 📜 Camp Half-Blood Chronicles — Rick Riordan
+### ✍️ Rick Riordan
 
-#### Series 1: Percy Jackson and the Olympians
+#### 📜 Camp Half-Blood Chronicles
+
+##### Series 1: Percy Jackson and the Olympians
 
 | **#** | **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
