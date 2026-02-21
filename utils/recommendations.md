@@ -21,6 +21,11 @@ This list is categorized by **Genre**, **Year**, **Author**, and **Series** to h
 *   **[Looking for Alaska](https://www.goodreads.com/book/show/99561.Looking_for_Alaska)** - *A defining YA novel about tragedy and young love.*
 *   **[The Catcher in the Rye](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye)** - *The all-time classic of teenage alienation.*
 *   **[All the Bright Places](https://www.goodreads.com/book/show/18460392-all-the-bright-places)** - *A deeply emotional story of two broken teens finding each other.*
+*   **[Normal People](https://www.goodreads.com/book/show/41057294-normal-people)** - *A nuanced exploration of complex young relationships.*
+
+#### Epistolary & Diary Style
+*   **[The Diary of a Young Girl](https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl)** - *The definitive historical diary of real-world impact.*
+*   **[The Martian](https://www.goodreads.com/book/show/18007564-the-martian)** - *A thrilling, science-heavy survival story told through log entries.*
 
 ---
 
