@@ -6,6 +6,24 @@ Welcome to the Book Recommendations list! This page categorizes all the best rea
 
 ---
 
+## 🤖 Recommended For You
+
+Based on what you've read so far (*Percy Jackson and the Olympians* and *The Perks of Being a Wallflower*), here are some hand-picked recommendations you might enjoy reading next!
+
+### If you liked the Mythological Fantasy of *Percy Jackson*...
+- **The Heroes of Olympus** by *Rick Riordan* (The direct sequel series to Percy Jackson.)
+- **The Kane Chronicles** by *Rick Riordan* (Explores Egyptian mythology in the same universe.)
+- **Harry Potter and the Sorcerer's Stone** by *J.K. Rowling*
+- **Artemis Fowl** by *Eoin Colfer* 
+
+### If you liked the deep, Coming-of-Age tone of *The Perks of Being a Wallflower*...
+- **It's Kind of a Funny Story** by *Ned Vizzini*
+- **Looking for Alaska** by *John Green*
+- **The Catcher in the Rye** by *J.D. Salinger*
+- **All the Bright Places** by *Jennifer Niven*
+
+---
+
 ## 📑 By Genre
 
 ### 🌌 Fantasy
