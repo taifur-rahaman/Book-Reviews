@@ -21,7 +21,7 @@
 | Start Date | 20th February 2026 |
 | Last Read | 8th March 2026 |
 | End Date | 8th March 2026 |
-| Rating | 9.2 / 10 |
+| Rating | 9.1 / 10 |
 
 ## Overview
 
@@ -119,11 +119,15 @@ And then there's the humor. Despite all the heavy stuff, there are moments where
 | **Character Development** | **9.5/10** | Charlie's growth is phenomenal, and you physically feel for him |
 | **Enjoyment** | **9.5/10** | A rollercoaster of crying, laughing, and wanting to listen to David Bowie |
 | **Pace** | **9.0/10** | Fast-paced but emotionally weighty |
-| **Overall** | **9.2/10** | **An unforgettable coming-of-age classic** |
+| **Overall** | **9.1/10** | **An unforgettable coming-of-age classic** |
 
 ## Verdict
 
-*The Perks of Being a Wallflower* is an emotional rite of passage. If you read it in high school, it validated your angst. If you read it as an adult, it makes you want to travel back in time and hug your teenage self. It's funny, painfully sad, and ultimately triumphant. You'll leave feeling infinite. 
+To put it simply, *The Perks of Being a Wallflower* is an absolute emotional rollercoaster strapped to a mixtape playing The Smiths on repeat. Getting into Charlie's head is weirdly comforting because he is essentially saying all the awkward, over-analytical, deeply profound things we all thought when we were fifteen but were too busy trying to look cool to say out loud. 
+
+Is it a little melodramatic sometimes? Sure. But being a teenager *is* melodramatic! Every minor inconvenience feels like the end of the world, and every good song you hear in a moving car feels like an invitation to live forever. This book perfectly nails that very specific, very painful tightrope walk between wanting to stay safely on the sidelines and desperately wanting to participate in your own life. 
+
+Whether you're picking it up for the first time or the fifth, reading this book feels like sitting down with a friend who just gets you. It’s hilariously awkward, genuinely heartbreaking, and when you finally turn the last page, you really do just sit there—feeling thoroughly wrecked, deeply understood, and yes... infinite.
 
 ---
 
