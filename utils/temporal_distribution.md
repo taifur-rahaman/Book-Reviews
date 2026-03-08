@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 21st February 2026
+> **Last Updated:** 8th March 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -11,9 +11,9 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Books Read** | 6 |
-| **Total Pages Read** | 1,709 |
-| **Books Completed** | 5 |
-| **Currently Reading** | 1 |
+| **Total Pages Read** | 1,880 |
+| **Books Completed** | 6 |
+| **Currently Reading** | 0 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -31,7 +31,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | Historical Fiction | 0 | 0 | N/A |
 | Romance | 0 | 0 | N/A |
 | Horror & Supernatural | 0 | 0 | N/A |
-| Literary Fiction | 1 | 42 | - |
+| Literary Fiction | 1 | 213 | 9.1/10 |
 | Non-Fiction | 0 | 0 | N/A |
 | Philosophical & Religious | 0 | 0 | N/A |
 | Humor & Satire | 0 | 0 | N/A |
@@ -72,6 +72,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
+| March 2026 | 0 | 1 | 171 |
 
 
 ---
@@ -82,6 +83,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---|:---|:---:|:---:|
 | [The Titan's Curse](../titles/the_titans_curse.md) | [Rick Riordan](../authors/rick_riordan.md) | 10.0/10 | Fantasy |
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | 9.5/10 | Fantasy |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | 9.1/10 | Literary Fiction |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | 8.0/10 | Fantasy |
 | [The Lightning Thief](../titles/the_lightning_thief.md) | [Rick Riordan](../authors/rick_riordan.md) | 7.0/10 | Fantasy |
 | [The Sea of Monsters](../titles/the_sea_of_monsters.md) | [Rick Riordan](../authors/rick_riordan.md) | 6.0/10 | Fantasy |
@@ -90,11 +92,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ## 📖 Currently Reading
 
-### 🌍 Literary Fiction
-
-| **Title** | **Author** | **Genre** | **Rating** | **Start Date** |
-|:---|:---|:---:|:---:|:---:|
-| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | Literary Fiction | - | 20th Feb 2026 |
+*No books currently reading.*
 
 ---
 
@@ -111,6 +109,12 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Titan's Curse](../titles/the_titans_curse.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 10.0/10 | 17th Feb 2025 | 6h 40m |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 8.0/10 | 22nd Feb 2025 | 7h 10m |
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 9.5/10 | 24th Mar 2025 | 8h 39m |
+
+#### 🌍 Literary Fiction
+
+| **Title** | **Author** | **Genre** | **Rating** | **End Date** | **Read Time** |
+|:---|:---|:---:|:---:|:---:|:---:|
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | Literary Fiction | 9.1/10 | 8th Mar 2026 | - |
 
 ---
 

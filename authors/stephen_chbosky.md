@@ -35,7 +35,7 @@ Stephen Chbosky is an American novelist, screenwriter, and film director. He is 
 
 | **Title** | **Year** | **Read** |
 |:---|:---:|:---:|
-| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 1999 | 📗 |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 1999 | ✅ |
 | Imaginary Friend | 2019 | ❌ |
 
 ---
@@ -44,8 +44,8 @@ Stephen Chbosky is an American novelist, screenwriter, and film director. He is 
 
 | Book | Rating |
 |:---|:---:|
-| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | TBD |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | 9.1/10 |
 
 ---
 
-*Last Updated: 20th February 2026*
+*Last Updated: 8th March 2026*

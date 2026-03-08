@@ -15,7 +15,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [📖 Currently Reading](#-currently-reading) | Books currently in progress |
 | [📚 Books by Genre](#-books-by-genre) | Browse all books by genre |
 | [✍️ Authors](authors/README.md) | Browse author profiles |
-| [⭐ Recommendations](utils/recommendations.md) | View top books categorized by various sections |
 
 ---
 
@@ -24,9 +23,9 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Books Documented** | 6 |
-| **📄 Pages Read** | 1,709 |
-| **✅ Books Completed** | 5 |
-| **📗 Currently Reading** | 1 |
+| **📄 Pages Read** | 1,880 |
+| **✅ Books Completed** | 6 |
+| **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
 
@@ -34,15 +33,14 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 [⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
 
-[⭐ View Recommendations](utils/recommendations.md)
-
 ---
 
 ## 📖 Currently Reading
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 42/213 | 📗 Reading |
+
+*No books currently reading.*
 
 
 ---
@@ -123,7 +121,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | - | 42/213 | 📗 Reading |
+| [The Perks of Being a Wallflower](titles/the_perks_of_being_a_wallflower.md) | Stephen Chbosky | ⭐ 9.1/10 | 213/213 | ✅ Completed |
 
 ---
 
@@ -158,6 +156,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 ---
 
-*Last Updated: 21st February 2026*
+*Last Updated: 8th March 2026*
 
 </div>

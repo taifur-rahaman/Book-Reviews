@@ -12,42 +12,48 @@
 | Language | Original: English / Read In: English |
 | Genre | Young Adult, Epistolary, Coming-of-Age |
 | Format | Paperback |
-| Status | Reading |
-| Pages Read | 42 / 213 |
+| Status | Completed |
+| Pages Read | 213 / 213 |
 | Purchase Date | 2nd January 2024 |
 | Purchase Platform | Daraz.com |
 | Purchase Price | 176.00 BDT |
 | Total Read Time | - |
 | Start Date | 20th February 2026 |
-| Last Read | 21st February 2026 |
-| End Date | - |
-| Rating | - |
+| Last Read | 8th March 2026 |
+| End Date | 8th March 2026 |
+| Rating | 9.2 / 10 |
 
 ## Overview
 
-*The Perks of Being a Wallflower* is a coming-of-age epistolary novel. The story is told through a series of letters written by Charlie, an introverted teenager, to an anonymous stranger. Set in the early 1990s, it follows Charlie as he navigates his freshman year of high school, dealing with issues of trauma, mental health, friendship, and first love.
+*The Perks of Being a Wallflower* is a coming-of-age epistolary novel. The story is told through a series of letters written by Charlie, an introverted teenager, to an anonymous stranger. Set in the early 1990s, it follows Charlie as he navigates his freshman year of high school, dealing with issues of trauma, mental health, friendship, and first love. 
+
+Honestly, it's that rare kind of book that emotionally wrecks you, pats you on the back, and then offers you a mixtape to make you feel better. It’s got everything: mixtapes with The Smiths, driving through tunnels while feeling "infinite", and the kind of high school drama that feels world-ending because, at fifteen, it absolutely is. Stephen Chbosky captures the voice of a teenager so authentically that you might catch yourself wondering if he found your own embarrassing teenage diary and just published it. 
 
 ## Story & World
 
-*To be written...*
+The plot is simple on the surface: a shy freshman tries to navigate his first year of high school, making friends with a pair of eccentric seniors (Sam and Patrick) who show him the ropes. But beneath the Rocky Horror Picture Show screenings and clandestine house parties, there is a deep and profound exploration of trauma, mental health, and the pain of passive existence. Charlie is the ultimate wallflower—he sees things, he understands things, but he rarely steps on the dance floor of his own life. The story shines a spotlight on his transition from a passive observer to an active participant, making you laugh, cry, and occasionally yell at the pages when you just want to give him a hug. 
 
 ## Characters
 
-- **Charlie**: The protagonist and narrator, a "wallflower" who observes life from the sidelines.
-- **Sam**: A free-spirited senior whom Charlie befriends and develops feelings for.
-- **Patrick**: Sam's stepbrother, a charismatic and eccentric senior who becomes one of Charlie's closest friends.
+- **Charlie**: The protagonist and narrator, a "wallflower" who observes life from the sidelines. Hearing the world through his voice is like watching a car crash in slow motion while listening to a really good indie ballad. He’s incredibly pure, occasionally clueless, but has a heart of absolute gold. 
+- **Sam**: A free-spirited senior whom Charlie befriends and develops feelings for. The epitome of the "cool older girl" trope, but subverted with real vulnerability. She’s the catalyst for Charlie’s social awakening and delivers some of the most gut-punching dialogue in the entire book. 
+- **Patrick (Nothing)**: Sam's stepbrother, a charismatic and eccentric senior who becomes one of Charlie's closest friends. He brings ninety percent of the humor and is exactly the kind of friend everyone wishes they had in high school. 
+- **Bill (The English Teacher)**: The mentor figure who drops life-changing wisdom while assigning extra homework. We all needed a Mr. Anderson. 
 
 ## Writing Style & Prose
 
-*To be written...*
+Chbosky’s writing is deceptively simple. Because it’s written exactly how a confused, emotional teenager would write, the prose can feel repetitive or naive, but that’s the genius of it. It’s a masterclass in voice. Reading it feels like sitting in the passenger seat of a car late at night while a friend spills their darkest secrets. The simplicity makes the hard-hitting moments—and there are plenty of them—feel like a sudden punch to the gut. 
 
 ## Themes & Impact
 
-*To be written...*
+- **Participating in Life**: The core message of moving from the sidelines to the center stage of your own story.
+- **Mental Health & Trauma**: Handled with an incredible amount of care and raw honesty without feeling like an after-school special.
+- **Nostalgia & Connection**: The power of a good song, a late-night drive, and people who accept you unconditionally. 
+- **The "We Accept the Love We Think We Deserve" philosophy**: The quote that launched a thousand Tumblr posts, and for good reason—it’s brutally true.
 
 ## Personal Notes & Observations
 
-I've just started reading this modern classic, and I'm already feeling pulled into Charlie's world.
+I've just started reading this modern classic, and I'm already feeling pulled into Charlie's world. This book is essentially a blueprint for feeling emotions you didn't even know you possessed. 
 
 ### Pages 1-6 Observations
 
@@ -91,29 +97,41 @@ Charlie's innocence makes him vulnerable, and it seems like the people around hi
 
 Fast forward to the present, a 15-year-old Charlie attends his first real party at Bob's house alongside Sam and Patrick. He ends up getting stoned after eating some "special" brownies, and while wandering around looking for the bathroom, he accidentally catches Patrick and Brad (the star high school quarterback) kissing in one of the rooms. This leads to Patrick's quote above, asking Charlie to keep their secret. It's also the exact moment Patrick officially dubs Charlie a "wallflower"—someone who observes everything, understands what's going on, but keeps quiet about it.
 
+### Final Pages Observations
+
+> "I love you” I knew that she meant it in a friend way but I didn't care, because it was the third time since my aunt Helen died that I heard it from anyone and the other two times were from my mom." — Charlie, p. 69
+
+This quote honestly hit like a freight train. It’s such a simple, passing observation from Charlie, but it carries the heavy, suffocating weight of his isolation. When your baseline for receiving love is *that* low, any scrap of affection feels miraculous. It's heartbreaking but also weirdly beautiful because it shows how much he values his friends. My guy just wants some love out here.
+
+> "The inside jokes were not jokes anymore. they had become stories. Nobody brought up bad names or bad times and nobody feel sad as long as we could postponed tomorrow with more nostalgia" — Charlie, p. 198
+
+This one captures the specific tragedy of growing up. There’s that golden moment in friendship where the lore is locked in, and everyone is just holding their breath trying to keep the real world from creeping in. It perfectly sums up the bittersweet transition between being a kid and facing the inevitable "tomorrow." If you didn't shed a tear reading this, who hurt you?
+
+And then there's the humor. Despite all the heavy stuff, there are moments where Charlie’s sheer, unadulterated cluelessness is laugh-out-loud funny. His deadpan delivery about smoking or his awkward social encounters provide the exact comic relief you need so you don't completely drown in your own tears. 
+
 ### Rating Breakdown
 
 | Category | Score | Notes |
 |---|---|---|
-| **Writing Style** | **-** | - |
-| **Plot** | **-** | - |
-| **World-building** | **-** | - |
-| **Character Development** | **-** | - |
-| **Enjoyment** | **-** | - |
-| **Pace** | **-** | - |
-| **Overall** | **-** | **-** |
+| **Writing Style** | **9.0/10** | Captures the authentic, if occasionally awkward, teenage voice perfectly |
+| **Plot** | **8.5/10** | Character-driven and deeply moving, even if it lacks traditional structure |
+| **World-building** | **9.0/10** | Peak 90s nostalgia: mixtapes, typewriters, and high school dread |
+| **Character Development** | **9.5/10** | Charlie's growth is phenomenal, and you physically feel for him |
+| **Enjoyment** | **9.5/10** | A rollercoaster of crying, laughing, and wanting to listen to David Bowie |
+| **Pace** | **9.0/10** | Fast-paced but emotionally weighty |
+| **Overall** | **9.2/10** | **An unforgettable coming-of-age classic** |
 
 ## Verdict
 
-TBD
+*The Perks of Being a Wallflower* is an emotional rite of passage. If you read it in high school, it validated your angst. If you read it as an adult, it makes you want to travel back in time and hug your teenage self. It's funny, painfully sad, and ultimately triumphant. You'll leave feeling infinite. 
 
 ---
 
 ## Reread Value
 
-**Would I reread?** TBD
+**Would I reread?** Yes, probably whenever I need a good cry or a reminder of what it felt like to be fifteen.
 
-**Best for:** Young Adult readers, fans of character-driven stories
+**Best for:** Anyone who has ever felt like they didn't quite fit in, fans of coming-of-age stories, people who think The Smiths are heavily underrated.
 
 **Similar books:**
 - *It's Kind of a Funny Story* — Ned Vizzini
