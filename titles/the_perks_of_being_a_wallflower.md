@@ -17,7 +17,7 @@
 | Purchase Date | 2nd January 2024 |
 | Purchase Platform | Daraz.com |
 | Purchase Price | 176.00 BDT |
-| Total Read Time | - |
+| Total Read Time | 6 hours 56 minutes |
 | Start Date | 20th February 2026 |
 | Last Read | 8th March 2026 |
 | End Date | 8th March 2026 |

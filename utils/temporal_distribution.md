@@ -114,7 +114,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Title** | **Author** | **Genre** | **Rating** | **End Date** | **Read Time** |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | Literary Fiction | 9.1/10 | 8th Mar 2026 | - |
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | Literary Fiction | 9.1/10 | 8th Mar 2026 | 6h 56m |
 
 ---
 
