@@ -31,11 +31,48 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 
 ## 📚 Bibliography
 
-### 📖 Novels
+### ⚡ The Harry Potter Series
+
+| **#** | **Title** | **Year** | **Read** |
+|:---:|:---|:---:|:---:|
+| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | 1997 | 📗 |
+| 2 | Harry Potter and the Chamber of Secrets | 1998 | ❌ |
+| 3 | Harry Potter and the Prisoner of Azkaban | 1999 | ❌ |
+| 4 | Harry Potter and the Goblet of Fire | 2000 | ❌ |
+| 5 | Harry Potter and the Order of the Phoenix | 2003 | ❌ |
+| 6 | Harry Potter and the Half-Blood Prince | 2005 | ❌ |
+| 7 | Harry Potter and the Deathly Hallows | 2007 | ❌ |
+
+#### Companion Books
+| **Title** | **Year** | **Read** |
+|:---|:---:|:---:|
+| Fantastic Beasts and Where to Find Them | 2001 | ❌ |
+| Quidditch Through the Ages | 2001 | ❌ |
+| The Tales of Beedle the Bard | 2008 | ❌ |
+
+---
+
+### 🕵️ Cormoran Strike Series *(as Robert Galbraith)*
+
+| **#** | **Title** | **Year** | **Read** |
+|:---:|:---|:---:|:---:|
+| 1 | The Cuckoo's Calling | 2013 | ❌ |
+| 2 | The Silkworm | 2014 | ❌ |
+| 3 | Career of Evil | 2015 | ❌ |
+| 4 | Lethal White | 2018 | ❌ |
+| 5 | Troubled Blood | 2020 | ❌ |
+| 6 | The Ink Black Heart | 2022 | ❌ |
+| 7 | The Running Grave | 2023 | ❌ |
+
+---
+
+### 🌊 Standalone
 
 | **Title** | **Year** | **Read** |
 |:---|:---:|:---:|
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | 1997 | 📗 |
+| The Casual Vacancy | 2012 | ❌ |
+| The Ickabog | 2020 | ❌ |
+| The Christmas Pig | 2021 | ❌ |
 
 ---
 
@@ -44,6 +81,7 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 | Book | Rating |
 |:---|:---:|
 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | TBD |
+| **Average** | **TBD** |
 
 ---
 

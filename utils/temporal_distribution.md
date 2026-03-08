@@ -57,9 +57,18 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ---
 
+### ✍️ J.K. Rowling
+
+#### ⚡ The Harry Potter Series
+
+| **#** | **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|
+| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | - | 266 | - | 📗 Reading |
+
+---
 
 
-## �📈 Reading Timeline
+## 📈 Reading Timeline
 
 ### By Month (2025)
 
