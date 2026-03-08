@@ -10,11 +10,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 6 |
+| **Total Books Read** | 7 |
 | **Total Pages Read** | 1,880 |
 | **Total Read Time** | 47h 24m |
 | **Books Completed** | 6 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -73,7 +73,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
-| March 2026 | 0 | 1 | 171 |
+| March 2026 | 1 | 1 | 171 |
 
 
 ---
@@ -93,7 +93,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ## 📖 Currently Reading
 
-*No books currently reading.*
+### 🌌 Fantasy
+
+| **Title** | **Author** | **Genre** | **Rating** | **Start Date** |
+|:---|:---|:---:|:---:|:---:|
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | - | 8th Mar 2026 |
 
 ---
 
