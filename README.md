@@ -24,6 +24,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | :--- | :---: |
 | **📚 Books Documented** | 6 |
 | **📄 Pages Read** | 1,880 |
+| **⏱️ Total Read Time** | 47h 24m |
 | **✅ Books Completed** | 6 |
 | **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 0 |

@@ -12,6 +12,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---|:---:|
 | **Total Books Read** | 6 |
 | **Total Pages Read** | 1,880 |
+| **Total Read Time** | 47h 24m |
 | **Books Completed** | 6 |
 | **Currently Reading** | 0 |
 | **On Hold** | 0 |
