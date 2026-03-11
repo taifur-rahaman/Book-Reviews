@@ -25,23 +25,26 @@
 
 ## Overview
 
-*To be written...*
+Meet Harry Potter, an eleven-year-old kid whose life completely sucks. He lives in a literal cupboard under the stairs with his aunt and uncle, who are currently competing for the "Worst Guardians of the Century" award. But suddenly, a giant man kicks down a door, tells him he's a wizard, and reveals that Harry is actually the most famous baby in the magical world. Casual.
 
 ## Story & World
 
-*To be written...*
+The world-building so far is absolutely unhinged in the best way possible. There's a hidden magical street behind a shady pub, and the main wizard bank, Gringotts, is run by goblins who explicitly warn you with ominous poetry when you walk in ("Thief, you have been warned..."). Also, can we talk about wizard money? 17 silver sickles to a galleon, 29 bronze knuts to a sickle. Who came up with this math?! No wonder they need magic to get through life.
 
 ## Characters
 
-*To be written...*
+- **Harry Potter**: Surprisingly sassy for a kid who spent 11 years in a closet. He's just trying to process the fact that magic is real and everyone already knows his name.
+- **Rubeus Hagrid**: The giant we all need in our lives. Breaks down doors, bakes squashed cakes, and hands out pigs' tails to deserving bullies. 
+- **The Dursleys**: The absolute worst people on the planet. I hope they step on Legos every day for the rest of their lives.
 
 ## Writing Style & Prose
 
-*To be written...*
+Rowling writes like she’s sitting next to you, casually spilling the tea about this whimsical universe. The vibe is very much "fairy-tale but with a healthy dose of British sass." It’s super engaging and makes you feel like you're stumbling into Diagon Alley right alongside Harry.
 
 ## Themes & Impact
 
-*To be written...*
+- **Found Family vs. Biological Family**: The Dursleys are a nightmare, but suddenly Harry has Hagrid, who is basically the cool magical guardian he deserves.
+- **Destiny & Identity**: The Sorting Hat is literally a telepathic piece of headwear that decides your entire high school social life based on whether you're brave, smart, loyal, or a cunning little snake. No pressure!
 
 ## Personal Notes & Observations
 
