@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 8th March 2026
+> **Last Updated:** 12th March 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -11,7 +11,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Books Read** | 7 |
-| **Total Pages Read** | 1,880 |
+| **Total Pages Read** | 1,985 |
 | **Total Read Time** | 47h 24m |
 | **Books Completed** | 6 |
 | **Currently Reading** | 1 |
@@ -25,7 +25,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Genre** | **Books** | **Pages Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Fantasy | 5 | 1,667 | 8.1/10 |
+| Fantasy | 6 | 1,772 | 8.1/10 |
 | Science Fiction | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Crime & Detective | 0 | 0 | N/A |
@@ -82,7 +82,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
-| March 2026 | 1 | 1 | 171 |
+| March 2026 | 1 | 1 | 276 |
 
 
 ---
