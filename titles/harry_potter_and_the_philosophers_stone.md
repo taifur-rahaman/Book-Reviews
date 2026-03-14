@@ -21,7 +21,7 @@
 | Start Date | 8th March 2026 |
 | Last Read | 15th March 2026 |
 | End Date | 15th March 2026 |
-| Rating | ⭐ 3.5/5 |
+| Rating | 3.5 / 5 |
 
 ## Overview
 
