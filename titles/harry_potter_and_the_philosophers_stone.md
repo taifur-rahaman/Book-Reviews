@@ -86,12 +86,12 @@ Rowling writes like she’s sitting next to you, casually spilling the tea about
 
 | Category | Score | Notes |
 |---|---|---|
-| **Writing Style** | **4/5** | Charming, witty, and effortlessly readable — Rowling's voice is immediately distinctive |
-| **Plot** | **3/5** | Competently constructed mystery; the Snape misdirection is genuinely brilliant, but the climax is a touch convenient |
-| **World-building** | **5/5** | An entire universe built with remarkable confidence — Diagon Alley, Hogwarts, Quidditch, all feel genuinely real |
-| **Character Development** | **3/5** | Broad archetypes that work well for the tone; Quirrell as villain doesn't quite deliver the menace the setup deserves |
-| **Enjoyment** | **4/5** | Genuinely fun and immersive; the world alone makes every page worth it |
-| **Pace** | **3/5** | Steady but the climax rushes through its resolution a little too quickly |
+| **Writing Style** | **8.0/10** | Charming, witty, and effortlessly readable — Rowling's voice is immediately distinctive |
+| **Plot** | **6.0/10** | Competently constructed mystery; the Snape misdirection is genuinely brilliant, but the climax is a touch convenient |
+| **World-building** | **10.0/10** | An entire universe built with remarkable confidence — Diagon Alley, Hogwarts, Quidditch, all feel genuinely real |
+| **Character Development** | **6.0/10** | Broad archetypes that work well for the tone; Quirrell as villain doesn't quite deliver the menace the setup deserves |
+| **Enjoyment** | **8.0/10** | Genuinely fun and immersive; the world alone makes every page worth it |
+| **Pace** | **6.0/10** | Steady but the climax rushes through its resolution a little too quickly |
 | **Overall** | **7.0/10** | **A door to something much bigger — the world Rowling built here is worth every page** |
 
 ## Verdict

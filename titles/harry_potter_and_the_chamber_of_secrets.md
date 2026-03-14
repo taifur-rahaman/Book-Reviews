@@ -1,6 +1,6 @@
 # Harry Potter and the Chamber of Secrets
 
-![Cover Image](../utils/covers/harry_potter_and_the_chamber_of_secrets.png)
+![Cover Image](../utils/covers/harry_potter_and_the_chamber_of_secrets.jpg)
 
 | | |
 |---|---|
