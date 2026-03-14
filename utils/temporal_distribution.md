@@ -10,11 +10,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 7 |
+| **Total Books Read** | 8 |
 | **Total Pages Read** | 2,146 |
 | **Total Read Time** | 57h 30m |
 | **Books Completed** | 7 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -64,6 +64,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **#** | **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 7.0/10 | 266 | 10h 6m | ✅ Completed |
+| 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | Fantasy | - | 269 | - | 📗 Reading |
 
 ---
 
@@ -82,7 +83,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
-| March 2026 | 1 | 2 | 437 |
+| March 2026 | 2 | 2 | 437 |
 
 
 ---
@@ -107,8 +108,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Title** | **Author** | **Genre** | **Rating** | **Start Date** |
 |:---|:---|:---:|:---:|:---:|
-
-*Nothing currently reading.*
+| [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | - | 15th Mar 2026 |
 
 ---
 

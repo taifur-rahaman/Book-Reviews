@@ -36,7 +36,7 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 | **#** | **Title** | **Year** | **Read** |
 |:---:|:---|:---:|:---:|
 | 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | 1997 | ✅ |
-| 2 | Harry Potter and the Chamber of Secrets | 1998 | ❌ |
+| 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | 1998 | 📗 |
 | 3 | Harry Potter and the Prisoner of Azkaban | 1999 | ❌ |
 | 4 | Harry Potter and the Goblet of Fire | 2000 | ❌ |
 | 5 | Harry Potter and the Order of the Phoenix | 2003 | ❌ |
