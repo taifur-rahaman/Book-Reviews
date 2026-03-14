@@ -14,10 +14,10 @@
 | Format | Paperback |
 | Status | Completed |
 | Pages Read | 266 / 266 |
-| Purchase Date | - |
+| Purchase Date | 28th February 2026 |
 | Purchase Platform | BookOwls |
 | Purchase Price | 261.00 BDT |
-| Total Read Time | - |
+| Total Read Time | 10h 6m |
 | Start Date | 8th March 2026 |
 | Last Read | 15th March 2026 |
 | End Date | 15th March 2026 |
