@@ -23,10 +23,10 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Books Documented** | 7 |
-| **📄 Pages Read** | 1,985 |
+| **📄 Pages Read** | 2,146 |
 | **⏱️ Total Read Time** | 47h 24m |
-| **✅ Books Completed** | 6 |
-| **📗 Currently Reading** | 1 |
+| **✅ Books Completed** | 7 |
+| **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
 
@@ -41,7 +41,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
 
-| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 105/266 | 📗 Reading |
+*Nothing currently reading. Time to pick a new book!*
 
 
 ---
@@ -57,7 +57,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [The Titan's Curse](titles/the_titans_curse.md) | Rick Riordan | ⭐ 10/10 | 312/312 | ✅ Completed |
 | [The Battle of the Labyrinth](titles/the_battle_of_the_labyrinth.md) | Rick Riordan | ⭐ 8/10 | 342/342 | ✅ Completed |
 | [The Last Olympian](titles/the_last_olympian.md) | Rick Riordan | ⭐ 9.5/10 | 360/360 | ✅ Completed |
-| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | - | 105/266 | 📗 Reading |
+| [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | ⭐ 3.5/5 | 266/266 | ✅ Completed |
 
 
 
@@ -158,6 +158,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 ---
 
-*Last Updated: 12th March 2026*
+*Last Updated: 15th March 2026*
 
 </div>

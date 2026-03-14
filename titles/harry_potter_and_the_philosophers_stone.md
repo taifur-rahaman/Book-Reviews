@@ -12,16 +12,16 @@
 | Language | Original: English / Read In: English |
 | Genre | Fantasy, Young Adult, Children's Fiction |
 | Format | Paperback |
-| Status | Reading |
-| Pages Read | 105 / 266 |
+| Status | Completed |
+| Pages Read | 266 / 266 |
 | Purchase Date | - |
 | Purchase Platform | BookOwls |
 | Purchase Price | 261.00 BDT |
 | Total Read Time | - |
 | Start Date | 8th March 2026 |
-| Last Read | 12th March 2026 |
-| End Date | - |
-| Rating | - |
+| Last Read | 15th March 2026 |
+| End Date | 15th March 2026 |
+| Rating | ⭐ 3.5/5 |
 
 ## Overview
 
@@ -86,24 +86,32 @@ Rowling writes like she’s sitting next to you, casually spilling the tea about
 
 | Category | Score | Notes |
 |---|---|---|
-| **Writing Style** | **-** | - |
-| **Plot** | **-** | - |
-| **World-building** | **-** | - |
-| **Character Development** | **-** | - |
-| **Enjoyment** | **-** | - |
-| **Pace** | **-** | - |
-| **Overall** | **-** | **-** |
+| **Writing Style** | **4/5** | Charming, witty, and effortlessly readable — Rowling's voice is immediately distinctive |
+| **Plot** | **3/5** | Competently constructed mystery; the Snape misdirection is genuinely brilliant, but the climax is a touch convenient |
+| **World-building** | **5/5** | An entire universe built with remarkable confidence — Diagon Alley, Hogwarts, Quidditch, all feel genuinely real |
+| **Character Development** | **3/5** | Broad archetypes that work well for the tone; Quirrell as villain doesn't quite deliver the menace the setup deserves |
+| **Enjoyment** | **4/5** | Genuinely fun and immersive; the world alone makes every page worth it |
+| **Pace** | **3/5** | Steady but the climax rushes through its resolution a little too quickly |
+| **Overall** | **3.5/5** | **A door to something much bigger — the world Rowling built here is worth every page** |
 
 ## Verdict
 
-TBD
+The wizarding world opens its doors for the first time, and what a door it is. Rowling builds an entire universe with remarkable confidence — Diagon Alley, Platform 9¾, the Great Hall, Quidditch, the moving staircases — each detail stacking on the last until Hogwarts feels genuinely real. For a first book in a series, that's no small feat.
+
+The mystery of the Philosopher's Stone is competently constructed, with one genuinely brilliant misdirection — Snape, the man you're meant to hate, was protecting Harry all along. That single reveal recontextualizes everything and hints at a storytelling depth the rest of the book only partially delivers.
+
+Where it stumbles slightly is in its climax. The "power of love" resolution, while thematically meaningful, lands a touch convenient for a reader coming in fresh. And Quirrell as the villain, though cleverly hidden, doesn't quite carry the menace the setup deserves.
+
+But here's the truth — this isn't really a standalone story. It's a door. And on the other side of that door? Something much bigger is waiting.
+
+The world Rowling built here is worth every page. The story is just getting started.
 
 ---
 
 ## Reread Value
 
-**Would I reread?** TBD
+**Would I reread?** Yes
 
-**Best for:** 
+**Best for:** Anyone stepping into fantasy for the first time, or readers who enjoy richly built magical worlds with a cozy mystery at the centre
 
-**Similar books:**
+**Similar books:** Percy Jackson and the Olympians (Rick Riordan), The Magicians (Lev Grossman)

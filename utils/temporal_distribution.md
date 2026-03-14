@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 12th March 2026
+> **Last Updated:** 15th March 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -11,10 +11,10 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Metric** | **Value** |
 |:---|:---:|
 | **Total Books Read** | 7 |
-| **Total Pages Read** | 1,985 |
+| **Total Pages Read** | 2,146 |
 | **Total Read Time** | 47h 24m |
-| **Books Completed** | 6 |
-| **Currently Reading** | 1 |
+| **Books Completed** | 7 |
+| **Currently Reading** | 0 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -25,7 +25,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Genre** | **Books** | **Pages Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Fantasy | 6 | 1,772 | 8.1/10 |
+| Fantasy | 6 | 1,933 | 7.9/10 |
 | Science Fiction | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Crime & Detective | 0 | 0 | N/A |
@@ -63,7 +63,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **#** | **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | - | 266 | - | 📗 Reading |
+| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 3.5/5 | 266 | - | ✅ Completed |
 
 ---
 
@@ -82,7 +82,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Month** | **Books Started** | **Books Completed** | **Pages Read** |
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
-| March 2026 | 1 | 1 | 276 |
+| March 2026 | 1 | 2 | 437 |
 
 
 ---
@@ -96,6 +96,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | 9.1/10 | Literary Fiction |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | 8.0/10 | Fantasy |
 | [The Lightning Thief](../titles/the_lightning_thief.md) | [Rick Riordan](../authors/rick_riordan.md) | 7.0/10 | Fantasy |
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | 3.5/5 | Fantasy |
 | [The Sea of Monsters](../titles/the_sea_of_monsters.md) | [Rick Riordan](../authors/rick_riordan.md) | 6.0/10 | Fantasy |
 
 ---
@@ -106,7 +107,8 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Title** | **Author** | **Genre** | **Rating** | **Start Date** |
 |:---|:---|:---:|:---:|:---:|
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | - | 8th Mar 2026 |
+
+*Nothing currently reading.*
 
 ---
 
@@ -123,6 +125,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Titan's Curse](../titles/the_titans_curse.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 10.0/10 | 17th Feb 2025 | 6h 40m |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 8.0/10 | 22nd Feb 2025 | 7h 10m |
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 9.5/10 | 24th Mar 2025 | 8h 39m |
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 3.5/5 | 15th Mar 2026 | - |
 
 #### 🌍 Literary Fiction
 
