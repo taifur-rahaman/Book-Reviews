@@ -63,7 +63,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **#** | **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 3.5/5 | 266 | 10h 6m | ✅ Completed |
+| 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 7.0/10 | 266 | 10h 6m | ✅ Completed |
 
 ---
 
@@ -96,7 +96,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | 9.1/10 | Literary Fiction |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | 8.0/10 | Fantasy |
 | [The Lightning Thief](../titles/the_lightning_thief.md) | [Rick Riordan](../authors/rick_riordan.md) | 7.0/10 | Fantasy |
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | 3.5/5 | Fantasy |
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | 7.0/10 | Fantasy |
 | [The Sea of Monsters](../titles/the_sea_of_monsters.md) | [Rick Riordan](../authors/rick_riordan.md) | 6.0/10 | Fantasy |
 
 ---
@@ -125,7 +125,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Titan's Curse](../titles/the_titans_curse.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 10.0/10 | 17th Feb 2025 | 6h 40m |
 | [The Battle of the Labyrinth](../titles/the_battle_of_the_labyrinth.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 8.0/10 | 22nd Feb 2025 | 7h 10m |
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 9.5/10 | 24th Mar 2025 | 8h 39m |
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 3.5/5 | 15th Mar 2026 | 10h 6m |
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 7.0/10 | 15th Mar 2026 | 10h 6m |
 
 #### 🌍 Literary Fiction
 

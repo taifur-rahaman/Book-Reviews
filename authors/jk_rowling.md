@@ -80,8 +80,8 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 
 | Book | Rating |
 |:---|:---:|
-| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | 3.5/5 |
-| **Average** | **3.5/5** |
+| [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | 7.0/10 |
+| **Average** | **7.0/10** |
 
 ---
 

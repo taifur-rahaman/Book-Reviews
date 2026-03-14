@@ -21,7 +21,7 @@
 | Start Date | 8th March 2026 |
 | Last Read | 15th March 2026 |
 | End Date | 15th March 2026 |
-| Rating | 3.5 / 5 |
+| Rating | 7 / 10 |
 
 ## Overview
 
@@ -92,7 +92,7 @@ Rowling writes like she’s sitting next to you, casually spilling the tea about
 | **Character Development** | **3/5** | Broad archetypes that work well for the tone; Quirrell as villain doesn't quite deliver the menace the setup deserves |
 | **Enjoyment** | **4/5** | Genuinely fun and immersive; the world alone makes every page worth it |
 | **Pace** | **3/5** | Steady but the climax rushes through its resolution a little too quickly |
-| **Overall** | **3.5/5** | **A door to something much bigger — the world Rowling built here is worth every page** |
+| **Overall** | **7.0/10** | **A door to something much bigger — the world Rowling built here is worth every page** |
 
 ## Verdict
 
