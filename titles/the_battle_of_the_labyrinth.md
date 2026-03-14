@@ -6,7 +6,7 @@
 |---|---|
 | Original Title | The Battle of the Labyrinth |
 | Alternative Title | - |
-| Publication Year | 2009 |
+| Publication Year | 2008 |
 | Author | [Rick Riordan](../authors/rick_riordan.md) |
 | Publisher | Puffin Books |
 | Language | Original: English / Read In: English |

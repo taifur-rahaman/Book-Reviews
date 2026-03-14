@@ -6,7 +6,7 @@
 |---|---|
 | Original Title | The Last Olympian |
 | Alternative Title | - |
-| Publication Year | 2010 |
+| Publication Year | 2009 |
 | Author | [Rick Riordan](../authors/rick_riordan.md) |
 | Publisher | Puffin Books |
 | Language | Original: English / Read In: English |
