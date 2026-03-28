@@ -22,11 +22,11 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Books Documented** | 8 |
+| **📚 Books Documented** | 9 |
 | **📄 Pages Read** | 2,415 |
 | **⏱️ Total Read Time** | 65h 35m |
 | **✅ Books Completed** | 8 |
-| **📗 Currently Reading** | 0 |
+| **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
 
@@ -40,8 +40,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 🌟 **Rating** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|:---:|
-
-*No books currently reading.*
+| [Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md) | J.K. Rowling | - | 0/348 | 📗 Reading |
 
 
 ---
@@ -59,6 +58,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [The Last Olympian](titles/the_last_olympian.md) | Rick Riordan | ⭐ 9.5/10 | 360/360 | ✅ Completed |
 | [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | ⭐ 7/10 | 266/266 | ✅ Completed |
 | [Harry Potter and the Chamber of Secrets](titles/harry_potter_and_the_chamber_of_secrets.md) | J.K. Rowling | ⭐ 8.5/10 | 269/269 | ✅ Completed |
+| [Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md) | J.K. Rowling | - | 0/348 | 📗 Reading |
 
 
 
