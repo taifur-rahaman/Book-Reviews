@@ -1,6 +1,6 @@
 # Harry Potter and the Prisoner of Azkaban
 
-![Cover Image](../utils/covers/harry_potter_and_the_prisoner_of_azkaban.jpg)
+![Cover Image](../utils/covers/harry_potter_and_the_prisoner_of_azkaban.jpeg)
 
 | | |
 |---|---|
