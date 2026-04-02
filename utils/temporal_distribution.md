@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 28th March 2026
+> **Last Updated:** 2nd April 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -10,11 +10,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 9 |
-| **Total Pages Read** | 2,415 |
-| **Total Read Time** | 65h 35m |
-| **Books Completed** | 8 |
-| **Currently Reading** | 1 |
+| **Total Books Read** | 10 |
+| **Total Pages Read** | 2,763 |
+| **Total Read Time** | 76h 14m |
+| **Books Completed** | 9 |
+| **Currently Reading** | 0 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -25,7 +25,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Genre** | **Books** | **Pages Read** | **Average Rating** |
 |:---|:---:|:---:|:---:|
-| Fantasy | 7 | 2,202 | 8.0/10 |
+| Fantasy | 8 | 2,550 | 8.5/10 |
 | Science Fiction | 0 | 0 | N/A |
 | Mystery & Thriller | 0 | 0 | N/A |
 | Crime & Detective | 0 | 0 | N/A |
@@ -65,7 +65,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---:|:---|:---:|:---:|:---:|:---:|:---:|
 | 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 7.0/10 | 266 | 10h 6m | ✅ Completed |
 | 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | Fantasy | 8.5/10 | 269 | 8h 5m | ✅ Completed |
-| 3 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | Fantasy | - | 348 | - | 📗 Reading |
+| 3 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | Fantasy | 10.0/10 | 348 | 10h 39m | ✅ Completed |
 
 ---
 
@@ -85,6 +85,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
 | March 2026 | 3 | 3 | 706 |
+| April 2026 | 0 | 1 | 348 |
 
 
 ---
@@ -94,6 +95,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | **Title** | **Author** | **Rating** | **Genre** |
 |:---|:---|:---:|:---:|
 | [The Titan's Curse](../titles/the_titans_curse.md) | [Rick Riordan](../authors/rick_riordan.md) | 10.0/10 | Fantasy |
+| [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | [J.K. Rowling](../authors/jk_rowling.md) | 10.0/10 | Fantasy |
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | 9.5/10 | Fantasy |
 | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | [Stephen Chbosky](../authors/stephen_chbosky.md) | 9.1/10 | Literary Fiction |
 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | [J.K. Rowling](../authors/jk_rowling.md) | 8.5/10 | Fantasy |
@@ -106,11 +108,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ## 📖 Currently Reading
 
-### 🌌 Fantasy
-
-| **Title** | **Author** | **Genre** | **Rating** | **Start Date** |
-|:---|:---|:---:|:---:|:---:|
-| [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | - | 28th Mar 2026 |
+*Nothing in the queue right now.*
 
 ---
 
@@ -129,6 +127,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | [The Last Olympian](../titles/the_last_olympian.md) | [Rick Riordan](../authors/rick_riordan.md) | Fantasy | 9.5/10 | 24th Mar 2025 | 8h 39m |
 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 7.0/10 | 15th Mar 2026 | 10h 6m |
 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 8.5/10 | 28th Mar 2026 | 8h 5m |
+| [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 10.0/10 | 2nd Apr 2026 | 10h 39m |
 
 #### 🌍 Literary Fiction
 
