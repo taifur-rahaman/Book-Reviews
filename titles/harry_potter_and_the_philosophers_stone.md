@@ -114,4 +114,7 @@ The world Rowling built here is worth every page. The story is just getting star
 
 **Best for:** Anyone stepping into fantasy for the first time, or readers who enjoy richly built magical worlds with a cozy mystery at the centre
 
-**Similar books:** Percy Jackson and the Olympians (Rick Riordan), The Magicians (Lev Grossman)
+**Similar books:**
+- *[The Lightning Thief](./the_lightning_thief.md)* — Rick Riordan (young protagonist discovers magical world)
+- *Nevermoor: The Trials of Morrigan Crow* — Jessica Townsend (magical school, wondrous discoveries)
+- *The Magicians* — Lev Grossman (older, darker take on the magical school trope)

@@ -25,7 +25,7 @@
 
 ## Overview
 
-*The Perks of Being a Wallflower* is a coming-of-age epistolary novel. The story is told through a series of letters written by Charlie, an introverted teenager, to an anonymous stranger. Set in the early 1990s, it follows Charlie as he navigates his freshman year of high school, dealing with issues of trauma, mental health, friendship, and first love. 
+*[The Perks of Being a Wallflower](./the_perks_of_being_a_wallflower.md)* is a coming-of-age epistolary novel. The story is told through a series of letters written by Charlie, an introverted teenager, to an anonymous stranger. Set in the early 1990s, it follows Charlie as he navigates his freshman year of high school, dealing with issues of trauma, mental health, friendship, and first love. 
 
 Honestly, it's that rare kind of book that emotionally wrecks you, pats you on the back, and then offers you a mixtape to make you feel better. It’s got everything: mixtapes with The Smiths, driving through tunnels while feeling "infinite", and the kind of high school drama that feels world-ending because, at fifteen, it absolutely is. Stephen Chbosky captures the voice of a teenager so authentically that you might catch yourself wondering if he found your own embarrassing teenage diary and just published it. 
 
@@ -123,7 +123,7 @@ And then there's the humor. Despite all the heavy stuff, there are moments where
 
 ## Verdict
 
-To put it simply, *The Perks of Being a Wallflower* is an absolute emotional rollercoaster strapped to a mixtape playing The Smiths on repeat. Getting into Charlie's head is weirdly comforting because he is essentially saying all the awkward, over-analytical, deeply profound things we all thought when we were fifteen but were too busy trying to look cool to say out loud. 
+To put it simply, *[The Perks of Being a Wallflower](./the_perks_of_being_a_wallflower.md)* is an absolute emotional rollercoaster strapped to a mixtape playing The Smiths on repeat. Getting into Charlie's head is weirdly comforting because he is essentially saying all the awkward, over-analytical, deeply profound things we all thought when we were fifteen but were too busy trying to look cool to say out loud. 
 
 Is it a little melodramatic sometimes? Sure. But being a teenager *is* melodramatic! Every minor inconvenience feels like the end of the world, and every good song you hear in a moving car feels like an invitation to live forever. This book perfectly nails that very specific, very painful tightrope walk between wanting to stay safely on the sidelines and desperately wanting to participate in your own life. 
 
@@ -139,3 +139,5 @@ Whether you're picking it up for the first time or the fifth, reading this book 
 
 **Similar books:**
 - *It's Kind of a Funny Story* — Ned Vizzini
+- *The Catcher in the Rye* — J.D. Salinger (classic coming-of-age, raw emotional narration)
+- *Looking for Alaska* — John Green (high school, deeper emotional themes, friendships)

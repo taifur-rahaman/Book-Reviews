@@ -25,7 +25,7 @@
 
 ## Overview
 
-The Titan's Curse is the third book in the *Percy Jackson and the Olympians* series and the point where the series fully steps into its stride. A rescue mission for Annabeth and a newly discovered half-blood spirals into something far larger — a prophecy, a quest, a hunt alongside Artemis's immortal Hunters, and the looming threat of the Titan lord Kronos growing stronger in the background. The stakes are higher than ever, the cast expands meaningfully, and the story carries genuine emotional weight throughout.
+[The Titan's Curse](./the_titans_curse.md) is the third book in the *Percy Jackson and the Olympians* series and the point where the series fully steps into its stride. A rescue mission for Annabeth and a newly discovered half-blood spirals into something far larger — a prophecy, a quest, a hunt alongside Artemis's immortal Hunters, and the looming threat of the Titan lord Kronos growing stronger in the background. The stakes are higher than ever, the cast expands meaningfully, and the story carries genuine emotional weight throughout.
 
 ## Story & World
 
@@ -60,7 +60,7 @@ Riordan's prose is at its most confident here. Percy's narration is as sharp and
 > *"There is power in killing innocence. Terrible power. The Fates ordained a prophecy eons ago, when this creature was born. They said that whomever killed the Ophiotaurus and sacrificed its entrails to fire would have the power to destroy the gods."*
 > — Zoe Nightshade
 
-That quote alone tells you this book is operating at a different level to what came before. The Titan's Curse is the moment the Percy Jackson series stops being just a very fun adventure trilogy and becomes something with genuine emotional and narrative depth. It's the best one so far, and it's not particularly close.
+That quote alone tells you this book is operating at a different level to what came before. [The Titan's Curse](./the_titans_curse.md) is the moment the Percy Jackson series stops being just a very fun adventure trilogy and becomes something with genuine emotional and narrative depth. It's the best one so far, and it's not particularly close.
 
 The amount of plot threads running simultaneously is impressive — and what's more impressive is that none of them feel rushed or underserved. Little details from earlier in the book (and earlier books) come back with real purpose. By the end you feel like Riordan was two or three moves ahead of you the whole time, which is exactly the feeling you want from a fantasy series with a prophecy at its core.
 
@@ -84,7 +84,7 @@ Nico di Angelo is introduced in this book. I'm watching him.
 
 Okay, so — best one yet. It's not even a competition.
 
-Book one was a great introduction. Book two was fun and expanded the world. Book three is where Rick Riordan decided to actually write a proper epic and completely outdid himself. The Titan's Curse is the Percy Jackson book that makes you understand why people love this series so much. Everything that was good in the first two books is still here, and then a whole lot more shows up on top.
+Book one was a great introduction. Book two was fun and expanded the world. Book three is where Rick Riordan decided to actually write a proper epic and completely outdid himself. [The Titan's Curse](./the_titans_curse.md) is the Percy Jackson book that makes you understand why people love this series so much. Everything that was good in the first two books is still here, and then a whole lot more shows up on top.
 
 The action is incredible — more than either of the previous books, more varied, more visually imaginative, and somehow more personal. Every fight scene means something. Every confrontation has stakes you can feel. And yet, amid all of it, the quieter moments land just as hard. The character work here is on another level entirely.
 

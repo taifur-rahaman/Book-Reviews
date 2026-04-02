@@ -25,7 +25,7 @@
 
 ## Overview
 
-The Last Olympian is the fifth and final book in the *Percy Jackson and the Olympians* series — and it earns its finale completely. Kronos, Lord of Time, has fully risen. Luke's army of gods, demigods, and monsters marches on Manhattan to destroy a barely-defended Mount Olympus. The Great Prophecy, haunting the series since book one, is finally here to be fulfilled. Percy, Annabeth, Grover, and every ally they have ever made stand between Kronos and the end of the Olympians — and by extension, the whole of Western civilisation. Everything that has been built across four books comes crashing together in one enormous, relentless, deeply satisfying conclusion.
+[The Last Olympian](./the_last_olympian.md) is the fifth and final book in the *Percy Jackson and the Olympians* series — and it earns its finale completely. Kronos, Lord of Time, has fully risen. Luke's army of gods, demigods, and monsters marches on Manhattan to destroy a barely-defended Mount Olympus. The Great Prophecy, haunting the series since book one, is finally here to be fulfilled. Percy, Annabeth, Grover, and every ally they have ever made stand between Kronos and the end of the Olympians — and by extension, the whole of Western civilisation. Everything that has been built across four books comes crashing together in one enormous, relentless, deeply satisfying conclusion.
 
 ## Story & World
 
@@ -37,7 +37,7 @@ The River Styx sequence, where Percy makes himself near-invincible at enormous p
 
 - **Percy Jackson**: Carrying the full weight of the Great Prophecy, he rises to the occasion while remaining entirely himself. His arc across five books reaches a genuinely moving conclusion.
 - **Annabeth Chase**: Her role in the finale is pivotal, earned, and beautifully handled. Her relationship with Percy reaches a long-awaited, satisfying resolution.
-- **Nico di Angelo**: His arc — which has been building quietly since The Titan's Curse — pays off enormously here. One of the best developed secondary characters in the series.
+- **Nico di Angelo**: His arc — which has been building quietly since [The Titan's Curse](./the_titans_curse.md) — pays off enormously here. One of the best developed secondary characters in the series.
 - **Luke Castellan**: His ending is one of the most emotionally complex moments in the book. It reframes everything about his character across the whole series.
 - **Thalia, Grover, Tyson, Clarisse, Rachel, Mrs. O'Leary, Silena, Charles Beckendorf**: Every single one of them has their moment. No one is reduced to furniture in this finale.
 - **The Gods — Poseidon, Hades, Hestia, Hermes, Athena, Hecate**: Each god brought into the battle feels distinct and purposeful, not just scenery.
@@ -85,7 +85,7 @@ The ending — Percy's final choice, given the power of the gods — is a beauti
 
 Doomsday is at the doorstep. And Rick Riordan walks straight up to it, knocks, and absolutely delivers.
 
-The Last Olympian is the kind of finale that makes the entire journey feel worth it — not because it wraps everything up neatly (it doesn't, not entirely), but because it takes everything that has been building across five books and pays it off with the weight it deserves. Kronos fully risen, Luke's army marching on Manhattan, Mount Olympus barely defended, the Great Prophecy finally staring Percy in the face. This is it. The end. And gosh, was it EPIC.
+[The Last Olympian](./the_last_olympian.md) is the kind of finale that makes the entire journey feel worth it — not because it wraps everything up neatly (it doesn't, not entirely), but because it takes everything that has been building across five books and pays it off with the weight it deserves. Kronos fully risen, Luke's army marching on Manhattan, Mount Olympus barely defended, the Great Prophecy finally staring Percy in the face. This is it. The end. And gosh, was it EPIC.
 
 The Battle of Manhattan is something else. Virtually every character who has ever mattered to the series shows up and has a role — Percy, Annabeth, Grover, Clarisse, Nico, Tyson, Rachel, Mrs. O'Leary, Thalia and the Hunters of Artemis, Silena, Beckendorf, the gods themselves. On the other side: Kronos, Typhon, Oceanus, Morpheus, Prometheus, Hyperion, Drakon, and an army that has been building since book one. The scale is enormous, and yet you never lose track of why it matters, who you're rooting for, or what's at stake. That's a feat of writing that not many authors could pull off.
 

@@ -25,11 +25,11 @@
 
 ## Overview
 
-The Lightning Thief is the first book in the *Percy Jackson and the Olympians* series. It follows twelve-year-old Percy Jackson, a troubled boy diagnosed with ADHD and dyslexia, who discovers he is the son of a Greek god. When Zeus's master lightning bolt is stolen, Percy is accused of the theft and must embark on a cross-country quest to clear his name, recover the bolt, and prevent a war among the Olympian gods — all set in the modern, technology-filled United States.
+[The Lightning Thief](./the_lightning_thief.md) is the first book in the *Percy Jackson and the Olympians* series. It follows twelve-year-old Percy Jackson, a troubled boy diagnosed with ADHD and dyslexia, who discovers he is the son of a Greek god. When Zeus's master lightning bolt is stolen, Percy is accused of the theft and must embark on a cross-country quest to clear his name, recover the bolt, and prevent a war among the Olympian gods — all set in the modern, technology-filled United States.
 
 ## Story & World
 
-The world-building in *The Lightning Thief* is one of its greatest strengths. Riordan brilliantly weaves ancient Greek mythology into modern-day America — Mount Olympus perched atop the Empire State Building, the entrance to the Underworld located in Los Angeles, and monsters disguised as everyday people. The plot moves at a brisk, adventure-driven pace, following Percy, Annabeth, and Grover on a road trip quest that is both thrilling and packed with mythological references. The stakes escalate naturally from personal confusion to a full-blown divine civil war, making the journey feel both intimate and epic.
+The world-building in *[The Lightning Thief](./the_lightning_thief.md)* is one of its greatest strengths. Riordan brilliantly weaves ancient Greek mythology into modern-day America — Mount Olympus perched atop the Empire State Building, the entrance to the Underworld located in Los Angeles, and monsters disguised as everyday people. The plot moves at a brisk, adventure-driven pace, following Percy, Annabeth, and Grover on a road trip quest that is both thrilling and packed with mythological references. The stakes escalate naturally from personal confusion to a full-blown divine civil war, making the journey feel both intimate and epic.
 
 ## Characters
 
@@ -95,5 +95,5 @@ Bottom line: for a first-ever book, this could not have been a better pick. If y
 **Similar books:**
 - [The Sea of Monsters](the_sea_of_monsters.md) — Rick Riordan (Percy Jackson #2 — natural sequel)
 - The Kane Chronicles — Rick Riordan (Egyptian mythology, same author)
-- Harry Potter and the Philosopher's Stone — J.K. Rowling (young protagonist discovers magical world)
+- [Harry Potter and the Philosopher's Stone](./harry_potter_and_the_philosophers_stone.md) — J.K. Rowling (young protagonist discovers magical world)
 

@@ -25,7 +25,7 @@
 
 ## Overview
 
-The second installment of the Harry Potter series, *Harry Potter and the Chamber of Secrets*, cranks the mystery up to an eleven. After a pretty magical introduction to Hogwarts in the first book, year two throws us right back into the wizarding world with a significantly darker tone. There's a secret chamber, terrifying voices in the walls, and a monster petrifying students left and right. 
+The second installment of the Harry Potter series, *[Harry Potter and the Chamber of Secrets](./harry_potter_and_the_chamber_of_secrets.md)*, cranks the mystery up to an eleven. After a pretty magical introduction to Hogwarts in the first book, year two throws us right back into the wizarding world with a significantly darker tone. There's a secret chamber, terrifying voices in the walls, and a monster petrifying students left and right. 
 
 Honestly, it's that perfect blend of middle-grade fantasy and a classic whodunit. It's got everything: rogue bludgers, a massively inflated ego disguised as a Defense Against the Dark Arts teacher, and arguably the most annoying house elf in existence dropping literal cakes on people's heads. Rowling really steps up the stakes here, proving that Hogwarts is perhaps the world's most dangerous school, yet somehow still the only place you'd ever want to be.
 
@@ -111,7 +111,7 @@ This quote is probably one of the most defining moments of the entire series. Ha
 
 ## Verdict
 
-*Harry Potter and the Chamber of Secrets* does exactly what a sequel should do: it takes the world we fell in love with and shows us its shadows. It’s scary, it’s funny, and it dives into the history of Hogwarts in a way that makes the castle feel like a living, breathing character.
+*[Harry Potter and the Chamber of Secrets](./harry_potter_and_the_chamber_of_secrets.md)* does exactly what a sequel should do: it takes the world we fell in love with and shows us its shadows. It’s scary, it’s funny, and it dives into the history of Hogwarts in a way that makes the castle feel like a living, breathing character.
 
 While it might not have the absolute wonder of reading about magic for the very first time, it trades that in for a compelling detective story that keeps you guessing. The giant spiders and the basilisk are nightmare fuel, but the message of choosing who you want to be shines brightly through the dark. It’s a thoroughly satisfying read that proves the wizarding world is far more dangerous—and interesting—than we first thought.
 
@@ -124,4 +124,6 @@ While it might not have the absolute wonder of reading about magic for the very 
 **Best for:** Fans of magical mysteries, people who enjoy slightly darker twists in their fantasy, and anyone needing a reminder that our choices define us.
 
 **Similar books:**
-- *Percy Jackson and the Sea of Monsters* — Rick Riordan
+- *Percy Jackson and [the Sea of Monsters](./the_sea_of_monsters.md)* — Rick Riordan
+- *A Series of Unfortunate Events* — Lemony Snicket (darker tone, mysteries)
+- *The Spiderwick Chronicles* — Holly Black and Tony DiTerlizzi (creepy creatures and magical discoveries)

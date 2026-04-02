@@ -25,7 +25,7 @@
 
 ## Overview
 
-The Battle of the Labyrinth is the fourth installment in the *Percy Jackson and the Olympians* series and marks a distinct tonal shift for the series. The Titan lord Kronos is rising, and his forces plan to use Daedalus's legendary Labyrinth — a massive, ever-shifting underground maze — as a back door to bypass Camp Half-Blood's defenses. Percy, Annabeth, Grover, and Tyson must venture into the Labyrinth to find Daedalus before Luke's army does. What follows is the series' most emotionally complex and character-driven entry yet.
+[The Battle of the Labyrinth](./the_battle_of_the_labyrinth.md) is the fourth installment in the *Percy Jackson and the Olympians* series and marks a distinct tonal shift for the series. The Titan lord Kronos is rising, and his forces plan to use Daedalus's legendary Labyrinth — a massive, ever-shifting underground maze — as a back door to bypass Camp Half-Blood's defenses. Percy, Annabeth, Grover, and Tyson must venture into the Labyrinth to find Daedalus before Luke's army does. What follows is the series' most emotionally complex and character-driven entry yet.
 
 ## Story & World
 
@@ -81,7 +81,7 @@ Nico's storyline in this book is doing something quietly extraordinary. He's goi
 
 Somedays I wish I could escape to Ogygia with Percy Jackson. I meant *Percy Jackson*. (Definitely not "Perry Johansson.")
 
-The Battle of the Labyrinth is the series growing up in real time, and it's something to watch. After The Titan's Curse pushed the story into genuine emotional darkness, this one takes that shift and runs with it — deeper, messier, harder. Riordan flings you into something that feels almost adult, and he doesn't apologise for it. Percy's inner world is more complicated now. The consequences are weightier. The whole thing feels like it actually matters, which is a remarkable achievement for the fourth book in a series that started with a kid arguing with his maths teacher on a school bus.
+[The Battle of the Labyrinth](./the_battle_of_the_labyrinth.md) is the series growing up in real time, and it's something to watch. After [The Titan's Curse](./the_titans_curse.md) pushed the story into genuine emotional darkness, this one takes that shift and runs with it — deeper, messier, harder. Riordan flings you into something that feels almost adult, and he doesn't apologise for it. Percy's inner world is more complicated now. The consequences are weightier. The whole thing feels like it actually matters, which is a remarkable achievement for the fourth book in a series that started with a kid arguing with his maths teacher on a school bus.
 
 I've been shipping Percy and Annabeth since basically page one, and this book dangles that on a hook and makes you sweat through it. They're clearly feeling something, neither of them has worked out what to do about it, and meanwhile Calypso exists. Calypso! An immortal, endlessly patient, genuinely lovely person condemned to fall in love with heroes she can never keep, over and over again for eternity, through no fault of her own. That subplot is a handful of chapters in the middle of an action book and it absolutely gutted me. I wasn't ready. The aching loneliness of Ogygia — the island that is paradise and a prison at the same time — is one of the most quietly devastating things this series has done.
 

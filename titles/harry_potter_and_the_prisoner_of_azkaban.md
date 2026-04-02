@@ -115,5 +115,6 @@ But somehow it doesn't feel bleak. Because Harry has a Patronus now, a magnifice
 **Best for:** Readers who want their fantasy to have genuine emotional stakes; anyone who loved books one and two and is ready for the series to become something truly special.
 
 **Similar books:**
-- *The Last Olympian* — Rick Riordan *(emotional gut-punch of a series conclusion)*
-- *The Titan's Curse* — Rick Riordan *(the book where a "children's series" stops pulling its punches)*
+- *[The Last Olympian](./the_last_olympian.md)* — Rick Riordan *(emotional gut-punch of a series conclusion)*
+- *[The Titan's Curse](./the_titans_curse.md)* — Rick Riordan *(the book where a "children's series" stops pulling its punches)*
+- *His Dark Materials* — Philip Pullman *(maturing themes, darker fantasy)*

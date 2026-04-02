@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-Stephen Chbosky is an American novelist, screenwriter, and film director. He is best known for writing the coming-of-age novel *The Perks of Being a Wallflower* (1999), as well as for screenwriting and directing the film adaptation of the same book.
+Stephen Chbosky is an American novelist, screenwriter, and film director. He is best known for writing the coming-of-age novel *[The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md)* (1999), as well as for screenwriting and directing the film adaptation of the same book.
 
 ---
 

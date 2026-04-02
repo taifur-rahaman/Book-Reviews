@@ -6,7 +6,7 @@ A directory of author profiles featured in The Bookshelf Archives.
 |:---|:---|
 | [J.K. Rowling](jk_rowling.md) | Harry Potter |
 | [Rick Riordan](rick_riordan.md) | Percy Jackson and the Olympians |
-| [Stephen Chbosky](stephen_chbosky.md) | The Perks of Being a Wallflower |
+| [Stephen Chbosky](stephen_chbosky.md) | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) |
 
 ---
 *Last Updated: 2nd April 2026*
