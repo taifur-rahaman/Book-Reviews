@@ -10,11 +10,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 10 |
+| **Total Books Read** | 11 |
 | **Total Pages Read** | 2,763 |
 | **Total Read Time** | 76h 14m |
 | **Books Completed** | 9 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -66,6 +66,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | 1 | [Harry Potter and the Philosopher's Stone](../titles/harry_potter_and_the_philosophers_stone.md) | Fantasy | 7.0/10 | 266 | 10h 6m | ✅ Completed |
 | 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | Fantasy | 8.5/10 | 269 | 8h 5m | ✅ Completed |
 | 3 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | Fantasy | 10.0/10 | 348 | 10h 39m | ✅ Completed |
+| 4 | [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | Fantasy | -/10 | 700 | 0h 0m | ⏳ Reading |
 
 ---
 
@@ -85,7 +86,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
 | March 2026 | 3 | 3 | 706 |
-| April 2026 | 0 | 1 | 348 |
+| April 2026 | 1 | 1 | 348 |
 
 
 ---
@@ -108,7 +109,9 @@ This document tracks the temporal distribution of books read, organized by genre
 
 ## 📖 Currently Reading
 
-*Nothing in the queue right now.*
+| **Title** | **Author** | **Genre** | **Pages** | **Start Date** |
+|:---|:---|:---:|:---:|:---:|
+| [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 700 | 2nd April 2026 |
 
 ---
 
