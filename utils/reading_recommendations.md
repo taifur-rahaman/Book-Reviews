@@ -132,7 +132,9 @@ Not explored yet, but it flows naturally from both mythology and literary fictio
 ## 🔜 What to Read Next
 
 > **⚡ This section is anchored to what you are currently reading.**
-> Update it each time you finish a book — move the completed book to `temporal_distribution.md`, promote the next item in the queue, and add a new genre-balanced entry at the bottom of the queue.
+> Update it each time you **finish a full series** — log the completed books to `temporal_distribution.md`, promote the next block in the queue, and add a new entry at the bottom.
+
+> 📌 **Core rule: Never interrupt a series.** Finish every book in a series back-to-back. Standalone breathers (🌬️) only appear *between* series — never in the middle of one.
 
 ---
 
@@ -142,183 +144,222 @@ Not explored yet, but it flows naturally from both mythology and literary fictio
 |:---|:---|:---|:---:|:---:|:---:|
 | [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | Harry Potter #4 | 🟣 Fantasy | 0 / 700 pages | 2nd April 2026 |
 
-> 📝 **While you're reading this:** Goblet of Fire is the longest HP book and the tonal turning point of the series — it gets darker and more political from here. Stick with it past the Triwizard Selection (~ch. 12). After you finish, resist the urge to immediately jump into Order of the Phoenix. **Take a breather read first** (see Queue #2 below) — it'll make the emotional weight of Book 5 hit harder.
+> 📝 **While you're reading this:** Goblet of Fire is the longest HP book and the series' tonal turning point — everything gets darker and more political from here. Power through to the end; then read Books 5, 6, and 7 back-to-back without stopping for anything else. Don't break the Harry Potter arc.
 
 ---
 
-### 🗂️ Up Next Queue — Genre-Mixed Rotation
+### 🗂️ Up Next Queue — Series Blocks with Breathers
 
-The queue below is designed so you **never read more than 2 heavy fantasy books in a row** without a lighter genre in between. This keeps reading feeling fresh and prevents burnout.
+The queue is organised into **series blocks** (read completely, no skipping) separated by **standalone breathers** (🌬️). You move to the next block only after the previous one is fully done.
 
 > **How to use this queue:**
-> 1. When you finish your current book → start **Queue #1**
-> 2. Cross it off, shift everything up, add a new entry at the bottom
-> 3. The 🌬️ **Breather** tag = a short, lighter read between intense arcs
+> 1. Complete the current series block in full
+> 2. Then read the next 🌬️ standalone breather
+> 3. Then move to the next series block
+> 4. When you finish a block, update "Currently Reading" and shift the queue up
 
 ---
 
-#### 🟢 Queue #1 — Immediate Next *(Fantasy · Series continuation)*
+### 🟣 Block 1 — Harry Potter *(Finish the series)*
 
-> **Harry Potter and the Order of the Phoenix** — J.K. Rowling
-> *Harry Potter #5 · ~870 pages · Fantasy*
+> *J.K. Rowling · Fantasy · Books 4–7 remaining*
 
-The longest Harry Potter book. Harry is angry, isolated, and the Wizarding World is in denial — this is where the series stops being a children's book. Emotionally brutal in the best way. Your 10/10 rating for Prisoner of Azkaban suggests you'll handle this well.
+Read all four remaining books consecutively. Do not stop between them.
 
-**Why now:** You're mid-series. Never leave a Harry Potter book gap — the momentum matters.
+| **#** | **Book** | **Pages** | **Notes** |
+|:---:|:---|:---:|:---|
+| 4 | Goblet of Fire ← *you are here* | 700 | Longest book, the turning point |
+| 5 | The Order of the Phoenix | 870 | Darkest and most emotional |
+| 6 | The Half-Blood Prince | 607 | Faster-paced, devastating ending |
+| 7 | The Deathly Hallows | 607 | No Hogwarts — just survival |
 
 ---
 
-#### 🌬️ Queue #2 — Breather Read *(Slice of Life · Standalone)*
+### 🌬️ Breather #1 — After Harry Potter *(Slice of Life · Standalone)*
 
 > **The Fault in Our Stars** — John Green
 > *Standalone · ~313 pages · Slice of Life / Coming-of-age*
 
-A very short, emotionally honest book. Quick to read (3–4 sessions), character-driven, and nothing like fantasy. It acts as a palate cleanser — something real and grounded between two enormous Harry Potter books. Your 9.1/10 for Perks of Being a Wallflower tells me you'll connect with this immediately.
-
-**Why now:** After Book 5's emotional gut-punch, you need a complete genre reset before diving into Book 6.
+After closing a 7-book series, you need something short and completely different. This is character-driven, emotionally honest, and reads in 3–4 sessions. Your 9.1/10 for Perks of Being a Wallflower tells me this will land perfectly. A clean reset before a new series begins.
 
 ---
 
-#### 🟣 Queue #3 *(Fantasy · Series continuation)*
+### 🟠 Block 2 — The Kane Chronicles *(Full series)*
 
-> **Harry Potter and the Half-Blood Prince** — J.K. Rowling
-> *Harry Potter #6 · ~607 pages · Fantasy*
+> *Rick Riordan · Mythology / Action · 3 books*
 
-Shorter than Book 5, faster-paced, and devastating in a quiet way. The mystery of the Half-Blood Prince's identity is a genuinely great subplot. The ending is one of the best in the series.
+Same Riordan energy as Percy Jackson, but Egyptian mythology. Read all three books straight through — they're shorter and faster-paced than HP.
 
-**Why now:** You've had your breather. Now finish what you started.
-
----
-
-#### 🟣 Queue #4 *(Fantasy · Series finale)*
-
-> **Harry Potter and the Deathly Hallows** — J.K. Rowling
-> *Harry Potter #7 · ~607 pages · Fantasy*
-
-The last book. No Hogwarts, no school structure — just the three of them against the world. Don't read any spoilers before this one. Read it in long sessions if you can.
-
-**Why now:** You're at the end. Don't stop here.
+| **#** | **Book** | **Pages** | **Notes** |
+|:---:|:---|:---:|:---|
+| 1 | The Red Pyramid | 516 | Egyptian gods, dual POV siblings |
+| 2 | The Throne of Fire | 452 | Stakes escalate fast |
+| 3 | The Serpent's Shadow | 454 | Series finale — wraps everything up |
 
 ---
 
-#### 🌬️ Queue #5 — Breather Read *(Mythology · Series start)*
-
-> **The Red Pyramid** — Rick Riordan
-> *The Kane Chronicles #1 · ~516 pages · Mythology / Action*
-
-After finishing an entire 7-book series, you need something familiar but fresh. Riordan's Kane Chronicles hits the same energy as Percy Jackson but with Egyptian mythology — a completely different world wrapped in the same storytelling style you already love. Short chapters, fast pace, new mythology to explore.
-
-**Why now:** You just closed a 7-book chapter of your reading life. This is the perfect soft landing.
-
----
-
-#### 🟠 Queue #6 *(Mythology · Series continuation)*
-
-> **The Throne of Fire** — Rick Riordan
-> *The Kane Chronicles #2 · ~452 pages · Mythology*
-
-**Why now:** Momentum — you'll want to know what happens next.
-
----
-
-#### 🌬️ Queue #7 — Breather Read *(Sci-Fi · Standalone)*
+### 🌬️ Breather #2 — After Kane Chronicles *(Sci-Fi · Standalone)*
 
 > **The Hitchhiker's Guide to the Galaxy** — Douglas Adams
 > *Standalone · ~180 pages · Sci-Fi / Comedy*
 
-Your first Sci-Fi entry — and it barely feels like Sci-Fi. It's absurdist comedy about the end of the world and everything after it. Extremely short (reads in one or two sittings), hilarious, and nothing like anything else you've read. The perfect way to discover whether you like Sci-Fi without committing to a massive series.
-
-**Why now:** After two Riordan books, you need a completely different voice. This is the most accessible Sci-Fi book ever written.
+Your first Sci-Fi entry — absurdist comedy about the end of the world, reads in one sitting. Completely different from everything else on this list. The perfect way to discover whether you enjoy Sci-Fi without committing to a long series. Extremely short.
 
 ---
 
-#### 🟣 Queue #8 *(Fantasy · New series · Level up)*
+### 🟣 Block 3 — Heroes of Olympus *(Full series)*
 
-> **The Lost Hero** — Rick Riordan
-> *Heroes of Olympus #1 · ~553 pages · Fantasy / Mythology*
+> *Rick Riordan · Fantasy / Mythology · 5 books*
 
-Back to Riordan, but now in the Heroes of Olympus universe — which carries Percy's world into Roman mythology and introduces new characters. This is your next long series commitment (5 books). A level above Percy Jackson in complexity and stakes.
+The direct sequel universe to Percy Jackson — same characters, new Roman mythology layer, higher stakes. More complex than PJO, longer books. Read all five back-to-back.
 
-**Why now:** You've done a Sci-Fi breather, cleared your palate. Ready for the next long arc.
+| **#** | **Book** | **Pages** | **Notes** |
+|:---:|:---|:---:|:---|
+| 1 | The Lost Hero | 553 | New POV — sets up the Roman side |
+| 2 | The Son of Neptune | 513 | Percy returns |
+| 3 | The Mark of Athena | 586 | The two camps finally meet |
+| 4 | The House of Hades | 597 | Darkest Riordan book |
+| 5 | The Blood of Olympus | 516 | Series finale |
 
 ---
 
-#### 🌬️ Queue #9 — Breather Read *(Historical Fiction · Standalone)*
+### 🌬️ Breather #3 — After Heroes of Olympus *(Historical Fiction · Standalone)*
 
 > **The Book Thief** — Markus Zusak
 > *Standalone · ~584 pages · Historical Fiction / Literary*
 
-Your introduction to Historical Fiction. Set in Nazi Germany, narrated by Death itself — this is unlike anything else on this list. Emotionally devastating but beautifully written. Not too long, completely standalone, and it will change how you think about what books can do.
+Your introduction to Historical Fiction. Set in WWII Germany, narrated by Death — unlike anything else on this list. Emotionally devastating, beautifully written, and completely standalone. This is the book that opens up an entirely new genre for you.
 
-**Why now:** You'll have just finished the first Heroes of Olympus book and need a tonal shift before continuing the series.
+---
+
+### 🟠 Block 4 — The Trials of Apollo *(Full series)*
+
+> *Rick Riordan · Mythology / Fantasy · 5 books*
+
+Apollo is cast down to Earth as a human teenager. Funnier than Heroes of Olympus but emotionally deeper. The final chapter of the entire Riordan universe — closure to everything you've been reading since Percy Jackson.
+
+| **#** | **Book** | **Pages** | **Notes** |
+|:---:|:---|:---:|:---|
+| 1 | The Hidden Oracle | 376 | Apollo learning to be human |
+| 2 | The Dark Prophecy | 414 | — |
+| 3 | The Burning Maze | 448 | Emotional gut-punch mid-series |
+| 4 | The Tyrant's Tomb | 448 | — |
+| 5 | The Tower of Nero | 544 | The end of the Riordan universe |
+
+---
+
+### 🌬️ Breather #4 — After Trials of Apollo *(Slice of Life · Standalones)*
+
+> **John Green standalones** — read in any order
+> *Standalones · ~300 pages each · Slice of Life / YA*
+
+You've just closed the entire Riordan universe (~10 books). Take a real breath. Read one or two John Green standalones — *Looking for Alaska*, *Turtles All the Way Down*, or *Paper Towns*. Short, character-driven, emotionally grounded. No series commitment.
+
+---
+
+### 🟣 Block 5 — Grishaverse *(Full trilogy + duology)*
+
+> *Leigh Bardugo · Fantasy · 5 books total*
+
+Your first Fantasy level-up beyond Riordan. Start with Shadow and Bone (trilogy) — **then** continue into Six of Crows (duology). Do not start Six of Crows without finishing Shadow and Bone first.
+
+| **#** | **Book** | **Pages** | **Series** |
+|:---:|:---|:---:|:---:|
+| 1 | Shadow and Bone | 358 | Shadow and Bone #1 |
+| 2 | Siege and Storm | 432 | Shadow and Bone #2 |
+| 3 | Ruin and Rising | 422 | Shadow and Bone #3 |
+| 4 | Six of Crows | 480 | Six of Crows #1 |
+| 5 | Crooked Kingdom | 536 | Six of Crows #2 |
+
+---
+
+### 🌬️ Breather #5 — After Grishaverse *(Slice of Life · Standalone)*
+
+> **The Midnight Library** — Matt Haig
+> *Standalone · ~304 pages · Slice of Life / Philosophical*
+
+A short, thought-provoking book about regret and the lives we don't live. Perfect decompression after the dense Grishaverse. Highly accessible, reads quickly.
+
+---
+
+### 🟣 Block 6 — Mistborn Era 1 *(Full trilogy — Long-term goal)*
+
+> *Brandon Sanderson · Adult Fantasy · 3 books*
+
+Your first proper adult fantasy series. No hand-holding, deeply constructed magic system, heist-driven plot. This is the milestone that marks your graduation from YA fantasy.
+
+| **#** | **Book** | **Pages** |
+|:---:|:---|:---:|
+| 1 | The Final Empire | 643 |
+| 2 | The Well of Ascension | 796 |
+| 3 | The Hero of Ages | 724 |
 
 ---
 
 ### 🏁 Full Reading Arc — The Big Picture
 
-This is your complete trajectory from now until you're deep into adult fantasy:
-
 ```
 [NOW]
-  Harry Potter #4 (Goblet of Fire) — finishing
-      ↓
-  HP #5 (Order of the Phoenix)
-      ↓  🌬️ BREATHER: The Fault in Our Stars (Slice of Life)
-  HP #6 (Half-Blood Prince)
-      ↓
-  HP #7 (Deathly Hallows)
-      ↓  🌬️ BREATHER: The Red Pyramid → Throne → Serpent's Shadow (Kane Chronicles — Mythology)
-      ↓  🌬️ BREATHER: Hitchhiker's Guide (Sci-Fi — standalone)
-  The Lost Hero → Son of Neptune → Mark of Athena → House of Hades → Blood of Olympus
-              (Heroes of Olympus — Fantasy)
-      ↓  🌬️ BREATHER: The Book Thief (Historical Fiction)
-  The Hidden Oracle → ... (Trials of Apollo — Mythology/Fantasy)
-      ↓  🌬️ BREATHER: John Green standalones (Slice of Life)
-  Shadow and Bone → Siege and Storm → Ruin and Rising (Grishaverse — Fantasy L3)
-      ↓
-  Six of Crows → Crooked Kingdom (Grishaverse continued)
-      ↓  🌬️ BREATHER: The Midnight Library (Slice of Life)
-  The Final Empire → Well of Ascension → Hero of Ages (Mistborn Era 1 — Adult Fantasy L4)
-      ↓
+  ── Harry Potter #4 → #5 → #6 → #7  [finish the series]
+        ↓
+  🌬️ BREATHER: The Fault in Our Stars  (Slice of Life)
+        ↓
+  ── Kane Chronicles #1 → #2 → #3  [full series]
+        ↓
+  🌬️ BREATHER: The Hitchhiker's Guide to the Galaxy  (Sci-Fi)
+        ↓
+  ── Heroes of Olympus #1 → #2 → #3 → #4 → #5  [full series]
+        ↓
+  🌬️ BREATHER: The Book Thief  (Historical Fiction)
+        ↓
+  ── Trials of Apollo #1 → #2 → #3 → #4 → #5  [full series — Riordan universe closes]
+        ↓
+  🌬️ BREATHER: John Green standalones  (Slice of Life)
+        ↓
+  ── Grishaverse: Shadow and Bone #1 → #2 → #3 → Six of Crows #1 → #2  [full arc]
+        ↓
+  🌬️ BREATHER: The Midnight Library  (Slice of Life / Philosophical)
+        ↓
+  ── Mistborn Era 1: #1 → #2 → #3  [adult fantasy begins]
+        ↓
 [LONG-TERM]
-  The Way of Kings (Stormlight Archive — Epic Fantasy L5)
+  ── The Stormlight Archive (Epic Fantasy — years of reading ahead)
 ```
 
 ---
 
 ## 💡 Reading Strategy Tips
 
-Based on your actual reading patterns:
-
-| **Pattern Observed** | **Guideline** |
+| **Rule** | **Why it matters** |
 |:---|:---|
-| 🚀 You read fast when gripped (6–10h per book) | Never stop mid-series unless a breather is scheduled |
-| 🌟 Highest ratings are emotional, character-driven books | Always prioritize character over world-building when choosing next reads |
-| 🔁 You finish every series you start (PJO ✅, HP ongoing) | Trust multi-book commitments — your track record is perfect |
-| 🎯 You've only read Fantasy + Literary Fiction so far | Genre breathers are now part of your strategy — see the queue above |
-| 📅 Natural reading bursts in Feb–Apr | Start new series at a month's beginning to ride the momentum |
-| 🧠 You love when emotional stakes escalate | HP 5–7, Heroes of Olympus, and Mistborn are all stake-escalation arcs |
-| 🌬️ You need recovery reads between heavy arcs | Short standalones (John Green, Hitchhiker's) serve as decompression reads |
+| 🔒 Never break mid-series | Momentum, emotional continuity, and story logic all depend on reading a series intact |
+| 🌬️ One standalone between every series | Prevents genre fatigue; gives your brain a reset before committing to a new world |
+| 🟣→🟠→🔵→🟢→🔴 Rotate genres in breathers | Each breather introduces a new genre — you build breadth without abandoning your home genre |
+| 📖 Always know your next 2 blocks | Having the next series ready removes the "what do I read next?" paralysis |
+| 🚀 Use reading bursts wisely | Start a new series at the beginning of a month to ride your natural burst momentum |
+| 🧠 Heavier series need longer breathers | After HP (7 books) and Riordan universe (~10 books), take 2 standalones before the next arc |
 
 ---
 
 ## 📌 Quick Reference — Current Queue at a Glance
 
-| **#** | **Book** | **Author** | **Genre** | **Type** | **Length** |
-|:---:|:---|:---|:---:|:---:|:---:|
-| 📖 Now | Harry Potter and the Goblet of Fire | J.K. Rowling | 🟣 Fantasy | Series #4 | 700p |
-| 1 | Harry Potter and the Order of the Phoenix | J.K. Rowling | 🟣 Fantasy | Series #5 | 870p |
-| 🌬️ 2 | **The Fault in Our Stars** | John Green | 🟢 Slice of Life | Standalone | 313p |
-| 3 | Harry Potter and the Half-Blood Prince | J.K. Rowling | 🟣 Fantasy | Series #6 | 607p |
-| 4 | Harry Potter and the Deathly Hallows | J.K. Rowling | 🟣 Fantasy | Series #7 | 607p |
-| 🌬️ 5 | **The Red Pyramid** | Rick Riordan | 🟠 Mythology | Series #1 | 516p |
-| 🌬️ 6 | The Throne of Fire | Rick Riordan | 🟠 Mythology | Series #2 | 452p |
-| 🌬️ 7 | **The Hitchhiker's Guide to the Galaxy** | Douglas Adams | 🔵 Sci-Fi | Standalone | 180p |
-| 8 | The Lost Hero | Rick Riordan | 🟣 Fantasy | Series #1 | 553p |
-| 🌬️ 9 | **The Book Thief** | Markus Zusak | 🔴 Historical | Standalone | 584p |
+| **Block** | **What** | **Author** | **Genre** | **Books** |
+|:---:|:---|:---|:---:|:---:|
+| 📖 **Now** | Harry Potter #4–#7 | J.K. Rowling | 🟣 Fantasy | 4 remaining |
+| 🌬️ **Breather 1** | The Fault in Our Stars | John Green | 🟢 Slice of Life | 1 standalone |
+| **Block 2** | The Kane Chronicles #1–#3 | Rick Riordan | 🟠 Mythology | 3 books |
+| 🌬️ **Breather 2** | The Hitchhiker's Guide | Douglas Adams | 🔵 Sci-Fi | 1 standalone |
+| **Block 3** | Heroes of Olympus #1–#5 | Rick Riordan | 🟣 Fantasy | 5 books |
+| 🌬️ **Breather 3** | The Book Thief | Markus Zusak | 🔴 Historical | 1 standalone |
+| **Block 4** | Trials of Apollo #1–#5 | Rick Riordan | 🟠 Mythology | 5 books |
+| 🌬️ **Breather 4** | John Green standalones | John Green | 🟢 Slice of Life | 1–2 standalones |
+| **Block 5** | Grishaverse (S&B + SoC) | Leigh Bardugo | 🟣 Fantasy | 5 books |
+| 🌬️ **Breather 5** | The Midnight Library | Matt Haig | 🟢 Slice of Life | 1 standalone |
+| **Block 6** | Mistborn Era 1 | Brandon Sanderson | 🟣 Fantasy | 3 books |
 
-> 🌬️ = **Breather read** — lighter genre, shorter length, standalone. These reset your reading energy between heavy arcs.
+> 🌬️ = Standalone breather — only ever appears **between** completed series, never mid-series.
 
 ---
 
 *This file is generated from your [`personal_reading_roadmap`](../personal_reading_roadmap.html) and your tracked reading history in [`temporal_distribution.md`](temporal_distribution.md).*
+
