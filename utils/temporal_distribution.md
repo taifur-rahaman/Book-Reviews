@@ -71,7 +71,21 @@ This document tracks the temporal distribution of books read, organized by genre
 ---
 
 
+## 📚 Standalone Books
+
+### 🌍 Literary Fiction
+
+#### ✍️ Stephen Chbosky
+
+| **Title** | **Genre** | **Rating** | **Pages** | **Read Time** | **Status** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) | Literary Fiction | 9.1/10 | 213 | 6h 56m | ✅ Completed |
+
+---
+
+
 ## 📈 Reading Timeline
+
 
 ### By Month (2025)
 
