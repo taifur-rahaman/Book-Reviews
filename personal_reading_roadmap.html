@@ -1,0 +1,467 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+.w{padding:1.5rem 0;font-family:var(--font-sans)}
+.hd h1{font-size:22px;font-weight:500;color:var(--color-text-primary);margin-bottom:4px}
+.hd p{font-size:13px;color:var(--color-text-secondary);margin-bottom:1rem}
+.gtabs{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.gt{padding:6px 14px;font-size:13px;border-radius:20px;border:0.5px solid var(--color-border-secondary);cursor:pointer;background:var(--color-background-primary);color:var(--color-text-secondary);font-weight:400;transition:all .15s}
+.gt.on{font-weight:500}
+.sr{display:flex;gap:8px;margin-bottom:10px}
+.sr input{flex:1;font-size:13px;padding:7px 12px;border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);background:var(--color-background-primary);color:var(--color-text-primary)}
+.lvlrow{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:1rem}
+.lb{padding:3px 10px;font-size:11px;border-radius:12px;border:0.5px solid var(--color-border-secondary);cursor:pointer;background:var(--color-background-primary);color:var(--color-text-secondary)}
+.lb.on{background:var(--color-background-secondary);color:var(--color-text-primary);font-weight:500}
+.stat{font-size:12px;color:var(--color-text-secondary);margin-bottom:1rem}
+.lsec{margin-bottom:1.75rem}
+.lhdr{display:flex;align-items:center;gap:10px;margin-bottom:10px;padding-bottom:7px;border-bottom:0.5px solid var(--color-border-tertiary)}
+.lnum{width:32px;height:32px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;flex-shrink:0}
+.ltxt .lt{font-size:14px;font-weight:500;color:var(--color-text-primary)}
+.ltxt .ld{font-size:11px;color:var(--color-text-secondary)}
+.sgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:8px}
+.sc{border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);background:var(--color-background-primary);overflow:hidden}
+.sc.done-card{opacity:.65}
+.sch{padding:11px 13px;cursor:pointer;display:flex;gap:8px;align-items:flex-start}
+.sch:hover{background:var(--color-background-secondary)}
+.scl{flex:1;min-width:0}
+.scn{font-size:13px;font-weight:500;color:var(--color-text-primary);line-height:1.4;margin-bottom:2px}
+.sca{font-size:11px;color:var(--color-text-secondary);margin-bottom:5px}
+.pills{display:flex;flex-wrap:wrap;gap:3px}
+.pl{font-size:10px;padding:1px 7px;border-radius:9px}
+.status-done{background:#E1F5EE;color:#085041}
+.status-reading{background:#FAEEDA;color:#633806}
+.status-next{background:#E6F1FB;color:#0C447C}
+.status-complete{background:#F1EFE8;color:#444441}
+.status-ongoing{background:#FBEAF0;color:#72243E}
+.arr{font-size:11px;color:var(--color-text-secondary);flex-shrink:0;margin-top:2px;transition:transform .2s}
+.arr.op{transform:rotate(180deg)}
+.scb{border-top:0.5px solid var(--color-border-tertiary);padding:9px 13px;display:none}
+.scb.op{display:block}
+.br{display:flex;align-items:baseline;gap:7px;padding:4px 0;border-bottom:0.5px solid var(--color-border-tertiary)}
+.br:last-child{border-bottom:none}
+.bn{font-size:10px;font-weight:500;color:var(--color-text-secondary);width:18px;flex-shrink:0}
+.bt{font-size:12px;color:var(--color-text-primary);flex:1;line-height:1.4}
+.by{font-size:10px;color:var(--color-text-secondary);flex-shrink:0}
+.bdone{text-decoration:line-through;color:var(--color-text-secondary)}
+.breading{color:#BA7517;font-weight:500}
+.note{font-size:11px;color:var(--color-text-secondary);font-style:italic;margin-bottom:6px}
+.ab{margin-top:8px;width:100%;font-size:11px;padding:5px 10px;border-radius:var(--border-radius-md);border:0.5px solid var(--color-border-secondary);cursor:pointer;background:var(--color-background-secondary);color:var(--color-text-secondary)}
+.ab:hover{color:var(--color-text-primary)}
+.gnote{font-size:12px;color:var(--color-text-secondary);margin-bottom:8px;padding:7px 10px;background:var(--color-background-secondary);border-radius:var(--border-radius-md);border-left:2px solid var(--color-border-secondary);border-radius:0}
+</style>
+<div class="w">
+<div class="hd">
+  <h1>Your complete reading roadmap</h1>
+  <p>Personalized across 5 genres — your progress is tracked, every series in order</p>
+</div>
+
+<div class="gtabs" id="gtabs"></div>
+<div class="sr"><input type="text" id="sq" placeholder="Search any title, author, or tag..." oninput="render()"></div>
+<div class="lvlrow" id="lvlrow"></div>
+<div class="stat" id="stat"></div>
+<div id="out"></div>
+</div>
+
+<script>
+const GENRES=[
+  {id:"fantasy", label:"Fantasy", bg:"#EEEDFE", tx:"#3C3489", br:"#AFA9EC"},
+  {id:"mythology", label:"Mythology", bg:"#FAEEDA", tx:"#633806", br:"#EF9F27"},
+  {id:"scifi", label:"Sci-Fi", bg:"#E6F1FB", tx:"#0C447C", br:"#85B7EB"},
+  {id:"sliceoflife", label:"Slice of Life", bg:"#E1F5EE", tx:"#085041", br:"#5DCAA5"},
+  {id:"history", label:"Historical Fiction", bg:"#FAECE7", tx:"#712B13", br:"#F0997B"},
+];
+
+const DATA=[
+
+{genre:"fantasy", level:1, levelLabel:"Your current read", levelDesc:"Finish what you've started before moving on",
+series:[
+  {name:"Harry Potter", author:"J.K. Rowling", tags:["Magic","School","Beloved"], seriesStatus:"Complete", progress:"reading", note:"You're on Book 4 — keep going, books 5–7 get much darker and better", books:[
+    {n:1,t:"The Sorcerer's Stone",y:1997,read:true},
+    {n:2,t:"The Chamber of Secrets",y:1998,read:true},
+    {n:3,t:"The Prisoner of Azkaban",y:1999,read:true},
+    {n:4,t:"The Goblet of Fire",y:2000,reading:true},
+    {n:5,t:"The Order of the Phoenix",y:2003},
+    {n:6,t:"The Half-Blood Prince",y:2005},
+    {n:7,t:"The Deathly Hallows",y:2007}]},
+]},
+
+{genre:"fantasy", level:2, levelLabel:"Right after Harry Potter", levelDesc:"Stay in Riordan's world — same energy, new mythology",
+series:[
+  {name:"Percy Jackson — The Heroes of Olympus", author:"Rick Riordan", tags:["Greek+Roman","YA","Action"], seriesStatus:"Complete", progress:"next", note:"Direct sequel to Percy Jackson — same characters, same fun", books:[
+    {n:1,t:"The Lost Hero",y:2010},
+    {n:2,t:"The Son of Neptune",y:2011},
+    {n:3,t:"The Mark of Athena",y:2012},
+    {n:4,t:"The House of Hades",y:2013},
+    {n:5,t:"The Blood of Olympus",y:2014}]},
+  {name:"Percy Jackson — The Trials of Apollo", author:"Rick Riordan", tags:["Greek","YA","Humor"], seriesStatus:"Complete", note:"Apollo is forced to be human — hilarious and emotional",books:[
+    {n:1,t:"The Hidden Oracle",y:2016},
+    {n:2,t:"The Dark Prophecy",y:2017},
+    {n:3,t:"The Burning Maze",y:2018},
+    {n:4,t:"The Tyrant's Tomb",y:2019},
+    {n:5,t:"The Tower of Nero",y:2020}]},
+  {name:"The Chronicles of Narnia", author:"C.S. Lewis", tags:["Classic","Children","Allegory"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Magician's Nephew",y:1955},
+    {n:2,t:"The Lion, the Witch and the Wardrobe",y:1950},
+    {n:3,t:"The Horse and His Boy",y:1954},
+    {n:4,t:"Prince Caspian",y:1951},
+    {n:5,t:"The Voyage of the Dawn Treader",y:1952},
+    {n:6,t:"The Silver Chair",y:1953},
+    {n:7,t:"The Last Battle",y:1956}]},
+]},
+
+{genre:"fantasy", level:3, levelLabel:"Stepping up — YA fantasy", levelDesc:"More complex plots, moral gray areas, romance threads",
+series:[
+  {name:"Grishaverse: Shadow and Bone trilogy", author:"Leigh Bardugo", tags:["Magic","YA","Russia-Inspired"], seriesStatus:"Complete", note:"Read this before Six of Crows", books:[
+    {n:1,t:"Shadow and Bone",y:2012},{n:2,t:"Siege and Storm",y:2013},{n:3,t:"Ruin and Rising",y:2014}]},
+  {name:"Grishaverse: Six of Crows duology", author:"Leigh Bardugo", tags:["Heist","YA","Found Family"], seriesStatus:"Complete", books:[
+    {n:1,t:"Six of Crows",y:2015},{n:2,t:"Crooked Kingdom",y:2016}]},
+  {name:"An Ember in the Ashes", author:"Sabaa Tahir", tags:["Dark","YA","Rome-Inspired"], seriesStatus:"Complete", books:[
+    {n:1,t:"An Ember in the Ashes",y:2015},{n:2,t:"A Torch Against the Night",y:2016},{n:3,t:"A Reaper at the Gates",y:2018},{n:4,t:"A Sky Beyond the Storm",y:2020}]},
+  {name:"The Folk of the Air", author:"Holly Black", tags:["Faerie","YA","Dark Romance"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Cruel Prince",y:2018},{n:2,t:"The Wicked King",y:2019},{n:3,t:"The Queen of Nothing",y:2020}]},
+]},
+
+{genre:"fantasy", level:4, levelLabel:"Adult fantasy — entry level", levelDesc:"Leave YA behind — richer worlds, no hand-holding",
+series:[
+  {name:"Mistborn — Era 1", author:"Brandon Sanderson", tags:["Magic Systems","Heist","Adult"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Final Empire",y:2006},{n:2,t:"The Well of Ascension",y:2007},{n:3,t:"The Hero of Ages",y:2008}]},
+  {name:"The Lies of Locke Lamora (Gentlemen Bastards)", author:"Scott Lynch", tags:["Heist","Dark","Funny"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"The Lies of Locke Lamora",y:2006},{n:2,t:"Red Seas Under Red Skies",y:2007},{n:3,t:"The Republic of Thieves",y:2013}]},
+  {name:"Good Omens", author:"Terry Pratchett & Neil Gaiman", tags:["Humor","Angels","Apocalypse"], seriesStatus:"Complete", books:[
+    {n:1,t:"Good Omens",y:1990}]},
+]},
+
+{genre:"fantasy", level:5, levelLabel:"Epic adult fantasy", levelDesc:"Massive worlds, years of reading ahead",
+series:[
+  {name:"The Stormlight Archive", author:"Brandon Sanderson", tags:["Epic","Magic Systems","Doorstoppers"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"The Way of Kings",y:2010},{n:2,t:"Words of Radiance",y:2014},{n:3,t:"Oathbringer",y:2017},{n:4,t:"Rhythm of War",y:2020},{n:5,t:"Wind and Truth",y:2024}]},
+  {name:"The Kingkiller Chronicle", author:"Patrick Rothfuss", tags:["Literary","Magic","Beautiful Prose"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"The Name of the Wind",y:2007},{n:2,t:"The Wise Man's Fear",y:2011},{n:3,t:"The Doors of Stone",y:"TBA"}]},
+  {name:"The Poppy War trilogy", author:"R.F. Kuang", tags:["War","Dark","China-Inspired"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Poppy War",y:2018},{n:2,t:"The Dragon Republic",y:2019},{n:3,t:"The Burning God",y:2020}]},
+]},
+
+{genre:"fantasy", level:6, levelLabel:"Grimdark & political epic", levelDesc:"No heroes, no easy answers — complex and brutal",
+series:[
+  {name:"The First Law world", author:"Joe Abercrombie", tags:["Grimdark","Dark Humor","Subversive"], seriesStatus:"Complete", note:"The trilogy comes first, then standalones", books:[
+    {n:1,t:"The Blade Itself",y:2006},{n:2,t:"Before They Are Hanged",y:2007},{n:3,t:"Last Argument of Kings",y:2008},{n:4,t:"Best Served Cold",y:2009},{n:5,t:"The Heroes",y:2011},{n:6,t:"Red Country",y:2012}]},
+  {name:"A Song of Ice and Fire", author:"George R.R. Martin", tags:["Political","Epic","Unfinished"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"A Game of Thrones",y:1996},{n:2,t:"A Clash of Kings",y:1998},{n:3,t:"A Storm of Swords",y:2000},{n:4,t:"A Feast for Crows",y:2005},{n:5,t:"A Dance with Dragons",y:2011},{n:6,t:"The Winds of Winter",y:"TBA"}]},
+  {name:"The Witcher", author:"Andrzej Sapkowski", tags:["Slavic","Fairy Tale Retelling","Moral Gray"], seriesStatus:"Complete", note:"Start with short story collections",books:[
+    {n:1,t:"The Last Wish",y:1993},{n:2,t:"Sword of Destiny",y:1992},{n:3,t:"Blood of Elves",y:1994},{n:4,t:"Time of Contempt",y:1995},{n:5,t:"Baptism of Fire",y:1996},{n:6,t:"The Tower of the Swallow",y:1997},{n:7,t:"The Lady of the Lake",y:1999},{n:8,t:"Season of Storms",y:2013}]},
+]},
+
+{genre:"mythology", level:1, levelLabel:"Mythology made fun", levelDesc:"Riordan-style — the best way to fall in love with myths",
+series:[
+  {name:"The Kane Chronicles (Egyptian)", author:"Rick Riordan", tags:["Egyptian","YA","Action"], seriesStatus:"Complete", progress:"next", books:[
+    {n:1,t:"The Red Pyramid",y:2010},{n:2,t:"The Throne of Fire",y:2011},{n:3,t:"The Serpent's Shadow",y:2012}]},
+  {name:"Magnus Chase and the Gods of Asgard (Norse)", author:"Rick Riordan", tags:["Norse","YA","Funny"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Sword of Summer",y:2015},{n:2,t:"The Hammer of Thor",y:2016},{n:3,t:"The Ship of the Dead",y:2017}]},
+]},
+
+{genre:"mythology", level:2, levelLabel:"Mythology retold like stories", levelDesc:"Short, punchy, impossible to put down",
+series:[
+  {name:"Stephen Fry's Greek Mythology", author:"Stephen Fry", tags:["Greek","Funny","Accessible"], seriesStatus:"Complete", note:"Like myths told by a brilliant storytelling friend", books:[
+    {n:1,t:"Mythos",y:2017},{n:2,t:"Heroes",y:2018},{n:3,t:"Troy",y:2020}]},
+  {name:"Norse Mythology", author:"Neil Gaiman", tags:["Norse","Short Stories","Vivid"], seriesStatus:"Complete", books:[
+    {n:1,t:"Norse Mythology",y:2017}]},
+  {name:"Treasury of Greek Mythology", author:"Donna Jo Napoli", tags:["Greek","YA","Illustrated"], seriesStatus:"Complete", books:[
+    {n:1,t:"Treasury of Greek Mythology",y:2011}]},
+]},
+
+{genre:"mythology", level:3, levelLabel:"Mythology retold as novels", levelDesc:"Famous myths seen from unexpected angles — usually the women's side",
+series:[
+  {name:"Circe & The Song of Achilles", author:"Madeline Miller", tags:["Greek","Literary","Emotional"], seriesStatus:"Complete", note:"Read Song of Achilles first, then Circe",books:[
+    {n:1,t:"The Song of Achilles",y:2011},{n:2,t:"Circe",y:2018}]},
+  {name:"Jennifer Saint's Greek retellings", author:"Jennifer Saint", tags:["Greek","Women's POV","Emotional"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"Ariadne",y:2021},{n:2,t:"Elektra",y:2022},{n:3,t:"Atalanta",y:2023}]},
+  {name:"The Witch's Heart", author:"Genevieve Gornichec", tags:["Norse","Women's POV","Literary"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Witch's Heart",y:2021}]},
+  {name:"A Thousand Ships", author:"Natalie Haynes", tags:["Troy","Women's POV","Witty"], seriesStatus:"Complete", books:[
+    {n:1,t:"A Thousand Ships",y:2019}]},
+]},
+
+{genre:"mythology", level:4, levelLabel:"Mythology meets literary fiction", levelDesc:"Myths woven into modern or reimagined worlds",
+series:[
+  {name:"American Gods", author:"Neil Gaiman", tags:["All Mythologies","Road Trip","Adult"], seriesStatus:"Complete", books:[
+    {n:1,t:"American Gods",y:2001},{n:2,t:"Anansi Boys",y:2005}]},
+  {name:"The Silence of the Girls duology", author:"Pat Barker", tags:["Troy","War","Brutal Honesty"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Silence of the Girls",y:2018},{n:2,t:"The Women of Troy",y:2021}]},
+  {name:"Lavinia", author:"Ursula K. Le Guin", tags:["Roman","Literary","Quiet"], seriesStatus:"Complete", books:[
+    {n:1,t:"Lavinia",y:2008}]},
+]},
+
+{genre:"scifi", level:1, levelLabel:"Sci-fi that doesn't feel like sci-fi", levelDesc:"Funny, warm, or action-packed — the easiest entry points",
+series:[
+  {name:"The Hitchhiker's Guide to the Galaxy", author:"Douglas Adams", tags:["Comedy","Space","Cult Classic"], seriesStatus:"Complete", note:"The funniest sci-fi ever written — don't panic",books:[
+    {n:1,t:"The Hitchhiker's Guide to the Galaxy",y:1979},{n:2,t:"The Restaurant at the End of the Universe",y:1980},{n:3,t:"Life, the Universe and Everything",y:1982},{n:4,t:"So Long, and Thanks for All the Fish",y:1984},{n:5,t:"Mostly Harmless",y:1992}]},
+  {name:"Ender's Game series", author:"Orson Scott Card", tags:["Military","Kids","Strategy"], seriesStatus:"Complete", note:"Book 1 is a standalone masterpiece",books:[
+    {n:1,t:"Ender's Game",y:1985},{n:2,t:"Speaker for the Dead",y:1986},{n:3,t:"Xenocide",y:1991},{n:4,t:"Children of the Mind",y:1996}]},
+]},
+
+{genre:"scifi", level:2, levelLabel:"Action sci-fi for YA readers", levelDesc:"Fast-paced, accessible, great for first sci-fi reads",
+series:[
+  {name:"The Maze Runner", author:"James Dashner", tags:["Dystopian","YA","Mystery"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Maze Runner",y:2009},{n:2,t:"The Scorch Trials",y:2010},{n:3,t:"The Death Cure",y:2011}]},
+  {name:"The Giver Quartet", author:"Lois Lowry", tags:["Dystopia","YA","Philosophical"], seriesStatus:"Complete", note:"The Giver alone is a masterpiece",books:[
+    {n:1,t:"The Giver",y:1993},{n:2,t:"Gathering Blue",y:2000},{n:3,t:"Messenger",y:2004},{n:4,t:"Son",y:2012}]},
+  {name:"Ready Player One duology", author:"Ernest Cline", tags:["Gaming","Pop Culture","Fun"], seriesStatus:"Complete", books:[
+    {n:1,t:"Ready Player One",y:2011},{n:2,t:"Ready Player Two",y:2020}]},
+]},
+
+{genre:"scifi", level:3, levelLabel:"Modern sci-fi blockbusters", levelDesc:"Gripping, cinematic — the sci-fi everyone is reading",
+series:[
+  {name:"Andy Weir standalones", author:"Andy Weir", tags:["Science","Problem-Solving","Gripping"], seriesStatus:"Complete", note:"Read in any order — all standalone",books:[
+    {n:1,t:"The Martian",y:2011},{n:2,t:"Artemis",y:2017},{n:3,t:"Project Hail Mary",y:2021}]},
+  {name:"Red Rising saga", author:"Pierce Brown", tags:["Dystopia","Action","Epic"], seriesStatus:"Ongoing", books:[
+    {n:1,t:"Red Rising",y:2014},{n:2,t:"Golden Son",y:2015},{n:3,t:"Morning Star",y:2016},{n:4,t:"Iron Gold",y:2018},{n:5,t:"Dark Age",y:2019},{n:6,t:"Light Bringer",y:2023}]},
+  {name:"Old Man's War series", author:"John Scalzi", tags:["Military","Humor","Fast"], seriesStatus:"Complete", books:[
+    {n:1,t:"Old Man's War",y:2005},{n:2,t:"The Ghost Brigades",y:2006},{n:3,t:"The Last Colony",y:2007},{n:4,t:"Zoe's Tale",y:2008}]},
+]},
+
+{genre:"scifi", level:4, levelLabel:"Classic & ambitious sci-fi", levelDesc:"The books that defined the genre",
+series:[
+  {name:"Dune saga", author:"Frank Herbert", tags:["Epic","Political","Desert"], seriesStatus:"Complete", note:"Book 1 is a standalone masterpiece — stop there or continue",books:[
+    {n:1,t:"Dune",y:1965},{n:2,t:"Dune Messiah",y:1969},{n:3,t:"Children of Dune",y:1976},{n:4,t:"God Emperor of Dune",y:1981},{n:5,t:"Heretics of Dune",y:1984},{n:6,t:"Chapterhouse: Dune",y:1985}]},
+  {name:"Murderbot Diaries", author:"Martha Wells", tags:["Cozy Sci-Fi","Anxiety","Humor"], seriesStatus:"Ongoing", note:"A security robot that just wants to watch TV shows",books:[
+    {n:1,t:"All Systems Red",y:2017},{n:2,t:"Artificial Condition",y:2018},{n:3,t:"Rogue Protocol",y:2018},{n:4,t:"Exit Strategy",y:2018},{n:5,t:"Network Effect",y:2020},{n:6,t:"Fugitive Telemetry",y:2021}]},
+]},
+
+{genre:"scifi", level:5, levelLabel:"Deep & expansive sci-fi", levelDesc:"Multi-book universes that take over your life",
+series:[
+  {name:"The Expanse", author:"James S.A. Corey", tags:["Hard Sci-Fi","Political","Realistic"], seriesStatus:"Complete", books:[
+    {n:1,t:"Leviathan Wakes",y:2011},{n:2,t:"Caliban's War",y:2012},{n:3,t:"Abaddon's Gate",y:2013},{n:4,t:"Cibola Burn",y:2014},{n:5,t:"Nemesis Games",y:2015},{n:6,t:"Babylon's Ashes",y:2016},{n:7,t:"Persepolis Rising",y:2017},{n:8,t:"Tiamat's Wrath",y:2019},{n:9,t:"Leviathan Falls",y:2021}]},
+  {name:"The Remembrance of Earth's Past", author:"Liu Cixin", tags:["Philosophical","China","Mind-Blowing"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Three-Body Problem",y:2008},{n:2,t:"The Dark Forest",y:2008},{n:3,t:"Death's End",y:2010}]},
+  {name:"Hyperion Cantos", author:"Dan Simmons", tags:["Literary","Epic","Complex"], seriesStatus:"Complete", books:[
+    {n:1,t:"Hyperion",y:1989},{n:2,t:"The Fall of Hyperion",y:1990},{n:3,t:"Endymion",y:1996},{n:4,t:"The Rise of Endymion",y:1997}]},
+]},
+
+{genre:"sliceoflife", level:1, levelLabel:"Right up your alley", levelDesc:"Same energy as Perks — emotional, real, easy to devour",
+series:[
+  {name:"John Green standalones", author:"John Green", tags:["YA","Emotional","Coming-of-Age"], seriesStatus:"Complete", note:"Read in any order — all standalone", books:[
+    {n:1,t:"The Fault in Our Stars",y:2012},{n:2,t:"Looking for Alaska",y:2005},{n:3,t:"Turtles All the Way Down",y:2017},{n:4,t:"Paper Towns",y:2008},{n:5,t:"An Abundance of Katherines",y:2006}]},
+  {name:"Stargirl duology", author:"Jerry Spinelli", tags:["YA","Unique","Heartwarming"], seriesStatus:"Complete", books:[
+    {n:1,t:"Stargirl",y:2000},{n:2,t:"Love, Stargirl",y:2007}]},
+]},
+
+{genre:"sliceoflife", level:2, levelLabel:"Warm & life-affirming", levelDesc:"Books that make you feel good about being alive",
+series:[
+  {name:"Wonder and companion", author:"R.J. Palacio", tags:["Kindness","Middle Grade","Emotional"], seriesStatus:"Complete", books:[
+    {n:1,t:"Wonder",y:2012},{n:2,t:"Auggie & Me (companion stories)",y:2015}]},
+  {name:"Before I Fall / Lauren Oliver standalones", author:"Lauren Oliver", tags:["YA","Reflection","Emotional"], seriesStatus:"Complete", note:"All standalone, read in any order",books:[
+    {n:1,t:"Before I Fall",y:2010},{n:2,t:"Panic",y:2014}]},
+  {name:"Me Before You trilogy", author:"Jojo Moyes", tags:["Romance","Emotional","Adult"], seriesStatus:"Complete", books:[
+    {n:1,t:"Me Before You",y:2012},{n:2,t:"After You",y:2015},{n:3,t:"Still Me",y:2018}]},
+  {name:"The Alchemist (standalone)", author:"Paulo Coelho", tags:["Philosophical","Short","Life-Changing"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Alchemist",y:1988}]},
+]},
+
+{genre:"sliceoflife", level:3, levelLabel:"Contemporary adult literary fiction", levelDesc:"Real people, real problems — beautifully written",
+series:[
+  {name:"The Midnight Library & other Matt Haig", author:"Matt Haig", tags:["Mental Health","Hope","Accessible"], seriesStatus:"Complete", note:"All standalone, any order",books:[
+    {n:1,t:"The Midnight Library",y:2020},{n:2,t:"Reasons to Stay Alive",y:2015},{n:3,t:"How to Stop Time",y:2017}]},
+  {name:"Eleanor Oliphant is Completely Fine", author:"Gail Honeyman", tags:["Quirky","Healing","Adult"], seriesStatus:"Complete", books:[
+    {n:1,t:"Eleanor Oliphant is Completely Fine",y:2017}]},
+  {name:"Sally Rooney standalones", author:"Sally Rooney", tags:["Irish","Relationships","Millennial"], seriesStatus:"Complete", note:"Normal People first",books:[
+    {n:1,t:"Conversations with Friends",y:2017},{n:2,t:"Normal People",y:2018},{n:3,t:"Beautiful World, Where Are You",y:2021}]},
+  {name:"The Kite Runner & A Thousand Splendid Suns", author:"Khaled Hosseini", tags:["Afghanistan","Family","Emotional"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Kite Runner",y:2003},{n:2,t:"A Thousand Splendid Suns",y:2007},{n:3,t:"And the Mountains Echoed",y:2013}]},
+]},
+
+{genre:"sliceoflife", level:4, levelLabel:"Heavier but rewarding", levelDesc:"Books that leave a mark — complex, profound, sometimes painful",
+series:[
+  {name:"Pachinko (standalone)", author:"Min Jin Lee", tags:["Korea","Family Saga","Epic"], seriesStatus:"Complete", books:[
+    {n:1,t:"Pachinko",y:2017}]},
+  {name:"Fredrik Backman standalones", author:"Fredrik Backman", tags:["Swedish","Heartwarming","Community"], seriesStatus:"Complete", note:"Read in any order",books:[
+    {n:1,t:"A Man Called Ove",y:2012},{n:2,t:"Beartown",y:2016},{n:3,t:"Us Against You",y:2018},{n:4,t:"Anxious People",y:2019},{n:5,t:"The Winners",y:2022}]},
+  {name:"The Seven Husbands of Evelyn Hugo", author:"Taylor Jenkins Reid", tags:["Hollywood","Secrets","Addictive"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Seven Husbands of Evelyn Hugo",y:2017}]},
+]},
+
+{genre:"history", level:1, levelLabel:"History that reads like a story", levelDesc:"No dates, no dry facts — just vivid human stories",
+series:[
+  {name:"The Book Thief (standalone)", author:"Markus Zusak", tags:["WWII","Germany","Narrated by Death"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Book Thief",y:2005}]},
+  {name:"Number the Stars (standalone)", author:"Lois Lowry", tags:["WWII","Denmark","YA"], seriesStatus:"Complete", books:[
+    {n:1,t:"Number the Stars",y:1989}]},
+  {name:"I Am the Messenger (standalone)", author:"Markus Zusak", tags:["Contemporary","Mystery","Heartwarming"], seriesStatus:"Complete", books:[
+    {n:1,t:"I Am the Messenger",y:2002}]},
+]},
+
+{genre:"history", level:2, levelLabel:"WWII & 20th century stories", levelDesc:"The most emotionally gripping era in human history",
+series:[
+  {name:"All the Light We Cannot See (standalone)", author:"Anthony Doerr", tags:["WWII","France","Pulitzer"], seriesStatus:"Complete", books:[
+    {n:1,t:"All the Light We Cannot See",y:2014}]},
+  {name:"The Tattooist of Auschwitz duology", author:"Heather Morris", tags:["Holocaust","Love","Real Story"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Tattooist of Auschwitz",y:2018},{n:2,t:"Cilka's Journey",y:2019}]},
+  {name:"The Shadow of the Wind (Barcelona trilogy)", author:"Carlos Ruiz Zafón", tags:["Spain","Gothic","Mystery"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Shadow of the Wind",y:2001},{n:2,t:"The Angel's Game",y:2008},{n:3,t:"The Prisoner of Heaven",y:2011},{n:4,t:"The Labyrinth of the Spirits",y:2016}]},
+]},
+
+{genre:"history", level:3, levelLabel:"Ancient world — made thrilling", levelDesc:"Greece, Rome, Samurai — history as pure adrenaline",
+series:[
+  {name:"Gates of Fire (standalone)", author:"Steven Pressfield", tags:["Sparta","Thermopylae","Brutal"], seriesStatus:"Complete", note:"The 300 Spartans story — devastatingly good",books:[
+    {n:1,t:"Gates of Fire",y:1998}]},
+  {name:"Steven Pressfield's Greek standalones", author:"Steven Pressfield", tags:["Ancient Greece","War","Philosophy"], seriesStatus:"Complete", note:"Each is standalone",books:[
+    {n:1,t:"Gates of Fire",y:1998},{n:2,t:"Tides of War",y:2000},{n:3,t:"The Virtues of War",y:2004},{n:4,t:"The Afghan Campaign",y:2006}]},
+  {name:"Shōgun (standalone)", author:"James Clavell", tags:["Japan","Samurai","Epic"], seriesStatus:"Complete", books:[
+    {n:1,t:"Shōgun",y:1975}]},
+  {name:"The Pillars of the Earth series", author:"Ken Follett", tags:["Medieval","Cathedral","Epic"], seriesStatus:"Complete", books:[
+    {n:1,t:"The Pillars of the Earth",y:1989},{n:2,t:"World Without End",y:2007},{n:3,t:"A Column of Fire",y:2017},{n:4,t:"The Evening and the Morning",y:2020}]},
+]},
+
+{genre:"history", level:4, levelLabel:"Deep historical fiction", levelDesc:"Rich, layered, immersive — history as literature",
+series:[
+  {name:"The Thomas Cromwell trilogy", author:"Hilary Mantel", tags:["Tudor England","Political","Dense"], seriesStatus:"Complete", note:"Wolf Hall is one of the greatest historical novels ever",books:[
+    {n:1,t:"Wolf Hall",y:2009},{n:2,t:"Bring Up the Bodies",y:2012},{n:3,t:"The Mirror & the Light",y:2020}]},
+  {name:"Colleen McCullough's Masters of Rome", author:"Colleen McCullough", tags:["Roman Republic","Political","Epic"], seriesStatus:"Complete", books:[
+    {n:1,t:"The First Man in Rome",y:1990},{n:2,t:"The Grass Crown",y:1991},{n:3,t:"Fortune's Favourites",y:1993},{n:4,t:"Caesar's Women",y:1996},{n:5,t:"Caesar",y:1997},{n:6,t:"The October Horse",y:2002},{n:7,t:"Antony and Cleopatra",y:2007}]},
+]},
+
+];
+
+const READ={"Percy Jackson and the Olympians":true,"The Perks of Being a Wallflower":true};
+
+let activeGenre="all", activeLevel=0;
+let openCards={};
+let sid=0;
+
+function buildGenreTabs(){
+  const d=document.getElementById('gtabs');
+  let h=`<button class="gt on" id="g-all" onclick="setGenre('all')" style="background:#F1EFE8;color:#444441;border-color:#B4B2A9">All genres</button>`;
+  GENRES.forEach(g=>{
+    h+=`<button class="gt" id="g-${g.id}" onclick="setGenre('${g.id}')" style="">${g.label}</button>`;
+  });
+  d.innerHTML=h;
+}
+
+function setGenre(id){
+  activeGenre=id;
+  document.querySelectorAll('.gt').forEach(b=>b.classList.remove('on'));
+  const btn=document.getElementById('g-'+id);
+  if(id==='all'){btn.style.cssText="background:#F1EFE8;color:#444441;border-color:#B4B2A9";}
+  else{const g=GENRES.find(x=>x.id===id);btn.style.cssText=`background:${g.bg};color:${g.tx};border-color:${g.br}`;}
+  btn.classList.add('on');
+  activeLevel=0;
+  buildLevelBtns();
+  render();
+}
+
+function buildLevelBtns(){
+  const d=document.getElementById('lvlrow');
+  const levels=[...new Set(DATA.filter(x=>activeGenre==='all'||x.genre===activeGenre).map(x=>x.level))].sort((a,b)=>a-b);
+  let h=`<button class="lb on" id="lv-0" onclick="setLv(0)">All levels</button>`;
+  levels.forEach(n=>{ h+=`<button class="lb" id="lv-${n}" onclick="setLv(${n})">Level ${n}</button>`; });
+  d.innerHTML=h;
+}
+
+function setLv(n){
+  activeLevel=n;
+  document.querySelectorAll('.lb').forEach(b=>b.classList.remove('on'));
+  document.getElementById('lv-'+n).classList.add('on');
+  render();
+}
+
+function toggleCard(id){
+  openCards[id]=!openCards[id];
+  const b=document.getElementById('scb-'+id);
+  const a=document.getElementById('arr-'+id);
+  if(b)b.className='scb'+(openCards[id]?' op':'');
+  if(a)a.className='arr'+(openCards[id]?' op':'');
+}
+
+function gInfo(gid){return GENRES.find(x=>x.id===gid)||{bg:'#F1EFE8',tx:'#444441',br:'#B4B2A9'};}
+
+function render(){
+  const q=document.getElementById('sq').value.toLowerCase();
+  const out=document.getElementById('out');
+  let html='', totalSeries=0, totalBooks=0;
+  sid=0;
+
+  const genres=activeGenre==='all'?GENRES.map(g=>g.id):[activeGenre];
+
+  genres.forEach(gid=>{
+    const g=gInfo(gid);
+    const gLabel=GENRES.find(x=>x.id===gid)?.label||gid;
+    const rows=DATA.filter(x=>x.genre===gid&&(activeLevel===0||x.level===activeLevel));
+    if(!rows.length)return;
+
+    let gHtml='';
+    rows.forEach(row=>{
+      let secHtml='', sc=0;
+      row.series.forEach(s=>{
+        const match=!q||s.name.toLowerCase().includes(q)||s.author.toLowerCase().includes(q)||(s.tags||[]).some(t=>t.toLowerCase().includes(q))||s.books.some(b=>b.t.toLowerCase().includes(q));
+        if(!match)return;
+        sc++;totalSeries++;
+        const id=sid++;
+        const bookCount=s.books.length;
+        totalBooks+=bookCount;
+        const allDone=s.books.every(b=>b.read);
+        const hasReading=s.books.some(b=>b.reading);
+        const prog=s.progress;
+        let statusLabel=s.seriesStatus;
+        let statusClass='status-complete';
+        if(s.seriesStatus==='Ongoing'){statusClass='status-ongoing';}
+        if(prog==='done'||allDone){statusClass='status-done';statusLabel='Done';}
+        else if(prog==='reading'||hasReading){statusClass='status-reading';statusLabel='Reading now';}
+        else if(prog==='next'){statusClass='status-next';statusLabel='Read next';}
+
+        const isOpen=openCards[id]||false;
+
+        secHtml+=`
+          <div class="sc${allDone?' done-card':''}">
+            <div class="sch" onclick="toggleCard(${id})">
+              <div class="scl">
+                <div class="scn">${s.name}</div>
+                <div class="sca">${s.author}</div>
+                <div class="pills">
+                  ${(s.tags||[]).map(t=>`<span class="pl" style="background:${g.bg};color:${g.tx}">${t}</span>`).join('')}
+                  <span class="pl ${statusClass}">${statusLabel}</span>
+                  <span class="pl" style="background:var(--color-background-secondary);color:var(--color-text-secondary)">${bookCount} book${bookCount!==1?'s':''}</span>
+                </div>
+                ${s.note?`<div class="note">${s.note}</div>`:''}
+              </div>
+              <div class="arr${isOpen?' op':''}" id="arr-${id}">&#9660;</div>
+            </div>
+            <div class="scb${isOpen?' op':''}" id="scb-${id}">
+              ${s.books.map(b=>{
+                let cls='bt'; let extra='';
+                if(b.read){cls='bt bdone';}
+                else if(b.reading){cls='bt breading';extra=' ← reading now';}
+                return `<div class="br"><span class="bn" style="color:var(--color-text-secondary)">#${b.n}</span><span class="${cls}">${b.t}${extra}</span><span class="by">${b.y}</span></div>`;
+              }).join('')}
+              <button class="ab" onclick="sendPrompt('Tell me about the series ${s.name} by ${s.author} and why I should read it')">Tell me more about this series ↗</button>
+            </div>
+          </div>`;
+      });
+      if(!sc)return;
+      gHtml+=`
+        <div class="lsec">
+          <div class="lhdr">
+            <div class="lnum" style="background:${g.bg};color:${g.tx};border:1px solid ${g.br}">L${row.level}</div>
+            <div class="ltxt">
+              <div class="lt">${gLabel} — ${row.levelLabel}</div>
+              <div class="ld">${row.levelDesc}</div>
+            </div>
+          </div>
+          <div class="sgrid">${secHtml}</div>
+        </div>`;
+    });
+
+    if(gHtml&&activeGenre==='all'){
+      html+=`<div style="margin-bottom:2rem"><div style="font-size:14px;font-weight:500;color:${g.tx};background:${g.bg};display:inline-block;padding:4px 14px;border-radius:12px;margin-bottom:12px;border:1px solid ${g.br}">${gLabel}</div>${gHtml}</div>`;
+    } else if(gHtml){
+      html+=gHtml;
+    }
+  });
+
+  if(!html){out.innerHTML=`<div style="text-align:center;padding:3rem;color:var(--color-text-secondary);font-size:13px">No books found — try a different search</div>`;}
+  else out.innerHTML=html;
+  document.getElementById('stat').textContent=`Showing ${totalSeries} series · ${totalBooks} books`;
+}
+
+buildGenreTabs();
+buildLevelBtns();
+render();
+</script>

@@ -1,6 +1,6 @@
 # Temporal Distribution - Books
 
-> **Last Updated:** 2nd April 2026
+> **Last Updated:** 7th April 2026
 
 This document tracks the temporal distribution of books read, organized by genre and reading progress.
 
@@ -10,7 +10,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 11 |
+| **Total Books Read** | 10 |
 | **Total Pages Read** | 2,763 |
 | **Total Read Time** | 76h 14m |
 | **Books Completed** | 9 |
@@ -151,6 +151,12 @@ This document tracks the temporal distribution of books read, organized by genre
 *Books I've decided to stop reading*
 
 *No books dropped yet.*
+
+---
+
+## 🗺️ Reading Roadmap & Recommendations
+
+[📖 View your personalized reading roadmap & what to read next →](reading_recommendations.md)
 
 ---
 

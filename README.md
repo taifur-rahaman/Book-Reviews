@@ -22,7 +22,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Books Documented** | 11 |
+| **📚 Books Documented** | 10 |
 | **📄 Pages Read** | 2,763 |
 | **⏱️ Total Read Time** | 76h 14m |
 | **✅ Books Completed** | 9 |
@@ -160,6 +160,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 ---
 
-*Last Updated: 2nd April 2026*
+*Last Updated: 7th April 2026*
 
 </div>
