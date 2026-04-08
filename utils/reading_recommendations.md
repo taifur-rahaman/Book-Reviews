@@ -1,10 +1,10 @@
 # 🗺️ Personal Reading Roadmap & Recommendations
 
-> **Last Updated:** 7th April 2026
+> **Last Updated:** 8th April 2026
 >
 > 💡 **Maintenance note:** Every time you finish a book, update the **"Currently Reading"** and **"Up Next Queue"** sections below to keep recommendations fresh and genre-balanced.
 
-A personalized guide built from your reading history and curated reading roadmap — covering 5 genres across 6 progression levels each.
+A personalized guide built from your reading history and curated reading roadmap — covering 6 genres across 6 progression levels each.
 
 ---
 
@@ -129,6 +129,45 @@ Not explored yet, but it flows naturally from both mythology and literary fictio
 
 ---
 
+### 🖤 Classics — Gothic, Adventure & Literary Canon
+
+You haven't explored classic literature yet, but these atmospheric, imaginative novels slot perfectly as breathers between your big fantasy arcs. Gothic classics share DNA with fantasy — dark magic, monsters, moral philosophy. Verne's adventure classics share DNA with Sci-Fi and mythology — impossible journeys, wonder, and discovery. Most are under 400 pages and read faster than you'd expect.
+
+**Gothic Horror**
+
+| **Level** | **Theme** | **Series / Book** | **Your Status** |
+|:---:|:---|:---|:---:|
+| **L1** | Gothic horror — unmissable | Dracula — Bram Stoker | 🔜 Ideal entry |
+| **L1** | Gothic horror — unmissable | Frankenstein — Mary Shelley | 🔜 Ideal entry |
+| **L1** | Gothic horror — unmissable | The Strange Case of Dr Jekyll and Mr Hyde — R.L. Stevenson | 🔜 Short |
+| **L2** | Philosophical Gothic | The Picture of Dorian Gray — Oscar Wilde | 📌 Queued |
+| **L2** | Philosophical Gothic | The Turn of the Screw — Henry James | 📌 Queued |
+| **L2** | Philosophical Gothic | Rebecca — Daphne du Maurier | 📌 Queued |
+| **L3** | Victorian literary fiction | Jane Eyre — Charlotte Brontë | 📌 Queued |
+| **L3** | Victorian literary fiction | Wuthering Heights — Emily Brontë | 📌 Queued |
+| **L3** | Victorian literary fiction | Great Expectations — Charles Dickens | 📌 Long-term |
+| **L4** | 20th century classics | 1984 — George Orwell | 📌 Long-term |
+| **L4** | 20th century classics | Brave New World — Aldous Huxley | 📌 Long-term |
+| **L4** | 20th century classics | The Great Gatsby — F. Scott Fitzgerald | 📌 Long-term |
+
+**Adventure Classics — Jules Verne & Contemporaries**
+
+| **Level** | **Theme** | **Series / Book** | **Your Status** |
+|:---:|:---|:---|:---:|
+| **L1** | Classic adventure — best starting point | Journey to the Centre of the Earth — Jules Verne | 🔜 Ideal entry |
+| **L1** | Classic adventure — fast-paced & fun | Around the World in 80 Days — Jules Verne | 🔜 Short & breezy |
+| **L2** | Deeper Verne | 20,000 Leagues Under the Sea — Jules Verne | 📌 Queued |
+| **L2** | Deeper Verne | The Mysterious Island — Jules Verne | 📌 Queued |
+| **L2** | Classic adventure — contemporaries | Treasure Island — Robert Louis Stevenson | 📌 Queued |
+| **L2** | Classic adventure — contemporaries | The Count of Monte Cristo — Alexandre Dumas | 📌 Queued |
+| **L3** | Epic adventure & swashbuckling | The Three Musketeers — Alexandre Dumas | 📌 Long-term |
+| **L3** | Epic adventure & swashbuckling | Robinson Crusoe — Daniel Defoe | 📌 Long-term |
+| **L3** | Early sci-fi adventure | The Time Machine — H.G. Wells | 📌 Queued |
+| **L3** | Early sci-fi adventure | The War of the Worlds — H.G. Wells | 📌 Queued |
+| **L3** | Early sci-fi adventure | The Invisible Man — H.G. Wells | 📌 Queued |
+
+---
+
 ## 🔜 What to Read Next
 
 > **⚡ This section is anchored to what you are currently reading.**
@@ -207,6 +246,18 @@ Your first Sci-Fi entry — absurdist comedy about the end of the world, reads i
 
 ---
 
+### 🖤 Breather #2b — After Hitchhiker's Guide *(Classic Adventure · Standalones)*
+
+> **Journey to the Centre of the Earth** — Jules Verne
+> *Standalone · ~256 pages · Classic Adventure*
+
+> **Around the World in 80 Days** — Jules Verne
+> *Standalone · ~256 pages · Classic Adventure / Comedy*
+
+You've just read the funniest modern take on absurd adventure — now try the original. Jules Verne invented the adventure story as a genre. *Journey to the Centre of the Earth* sends three explorers underground through volcanic tunnels into a lost prehistoric world — pure imagination and wonder, reads in a few sittings. *Around the World in 80 Days* is lighter: a gentleman's wager that he can circle the globe in 80 days, racing against time across continents. Both are short, propulsive, and read far more accessibly than people expect from 19th-century fiction. A perfect two-book classic window before a 5-book Riordan series.
+
+---
+
 ### 🟣 Block 3 — Heroes of Olympus *(Full series)*
 
 > *Rick Riordan · Fantasy / Mythology · 5 books*
@@ -229,6 +280,20 @@ The direct sequel universe to Percy Jackson — same characters, new Roman mytho
 > *Standalone · ~584 pages · Historical Fiction / Literary*
 
 Your introduction to Historical Fiction. Set in WWII Germany, narrated by Death — unlike anything else on this list. Emotionally devastating, beautifully written, and completely standalone. This is the book that opens up an entirely new genre for you.
+
+---
+
+### 🖤 Breather #3b — After The Book Thief *(Classic Sci-Fi Adventure · Standalones)*
+
+> **The Time Machine** — H.G. Wells
+> *Standalone · ~118 pages · Classic Sci-Fi / Adventure*
+
+> **The War of the Worlds** — H.G. Wells
+> *Standalone · ~192 pages · Classic Sci-Fi / Adventure*
+
+H.G. Wells wrote the first alien invasion story and the first time-travel story in the same decade that Verne was mapping the Earth's interior. After the emotional weight of *The Book Thief*, these two are a jolt of pure imaginative energy — fast, propulsive, and almost shockingly modern. *The Time Machine* (~2 hours to read) and *The War of the Worlds* (~4 hours) together are still shorter than most single YA chapters. Read them back-to-back as one classic double-bill before diving into the final Riordan arc.
+
+> **Optional third:** *The Invisible Man* (~192 pages) — completes the H.G. Wells trifecta if you're on a roll.
 
 ---
 
@@ -257,6 +322,15 @@ You've just closed the entire Riordan universe (~10 books). Take a real breath. 
 
 ---
 
+### 🖤 Breather #4b — After Riordan Universe *(Classic Gothic · Standalones)*
+
+> **Dracula** — Bram Stoker + **Frankenstein** — Mary Shelley
+> *Standalones · ~400 & ~280 pages · Gothic Horror / Classic*
+
+You've finished the Riordan universe — now step into something completely different. Dracula and Frankenstein are the two founding stones of Gothic horror and modern fantasy's darker cousin. Dracula is told entirely through diary entries and letters (epistolary — surprisingly gripping). Frankenstein is the original monster story, but really about obsession, creation, and what it means to be human. Read them in either order. Both are short, atmospheric, and nothing like the YA you've been reading — which is exactly the point.
+
+---
+
 ### 🟣 Block 5 — Grishaverse *(Full trilogy + duology)*
 
 > *Leigh Bardugo · Fantasy · 5 books total*
@@ -270,6 +344,17 @@ Your first Fantasy level-up beyond Riordan. Start with Shadow and Bone (trilogy)
 | 3 | Ruin and Rising | 422 | Shadow and Bone #3 |
 | 4 | Six of Crows | 480 | Six of Crows #1 |
 | 5 | Crooked Kingdom | 536 | Six of Crows #2 |
+
+---
+
+### 🖤 Breather #5b — After Grishaverse *(Classic Gothic · Standalones)*
+
+> **The Picture of Dorian Gray** — Oscar Wilde
+> *Standalone · ~254 pages · Gothic / Philosophical Classic*
+
+Oscar Wilde's only novel — about beauty, moral corruption, and a portrait that ages while its owner stays young. Reads like dark fantasy dressed in Victorian wit. Short, elegant, and genuinely unsettling by the end. Perfect cool-down after the dense Grishaverse.
+
+> **Also consider pairing with:** *The Strange Case of Dr Jekyll and Mr Hyde* (~141 pages) — two classics in one breather window, less than 400 pages total.
 
 ---
 
@@ -296,6 +381,15 @@ Your first proper adult fantasy series. No hand-holding, deeply constructed magi
 
 ---
 
+### 🖤 Breather #6b — After Mistborn *(Victorian Classic · Standalone)*
+
+> **Jane Eyre** — Charlotte Brontë
+> *Standalone · ~532 pages · Victorian / Gothic Classic*
+
+After adult fantasy, step into adult classics. Jane Eyre is gothic, emotionally intense, and deeply character-driven — far closer to your slice-of-life instincts than you might expect. The perfect bridge between your YA past and the literary fiction that waits ahead.
+
+---
+
 ### 🏁 Full Reading Arc — The Big Picture
 
 ```
@@ -308,22 +402,34 @@ Your first proper adult fantasy series. No hand-holding, deeply constructed magi
         ↓
   🌬️ BREATHER: The Hitchhiker's Guide to the Galaxy  (Sci-Fi)
         ↓
+  🖤 CLASSICS: Journey to the Centre of the Earth + Around the World in 80 Days  (Verne)
+        ↓
   ── Heroes of Olympus #1 → #2 → #3 → #4 → #5  [full series]
         ↓
   🌬️ BREATHER: The Book Thief  (Historical Fiction)
+        ↓
+  🖤 CLASSICS: The Time Machine + The War of the Worlds  (H.G. Wells)
         ↓
   ── Trials of Apollo #1 → #2 → #3 → #4 → #5  [full series — Riordan universe closes]
         ↓
   🌬️ BREATHER: John Green standalones  (Slice of Life)
         ↓
+  🖤 CLASSICS: Dracula + Frankenstein  (Gothic Horror)
+        ↓
   ── Grishaverse: Shadow and Bone #1 → #2 → #3 → Six of Crows #1 → #2  [full arc]
+        ↓
+  🖤 CLASSICS: The Picture of Dorian Gray + Jekyll & Hyde  (Gothic / Philosophical)
         ↓
   🌬️ BREATHER: The Midnight Library  (Slice of Life / Philosophical)
         ↓
   ── Mistborn Era 1: #1 → #2 → #3  [adult fantasy begins]
         ↓
+  🖤 CLASSICS: Jane Eyre  (Victorian Gothic)
+        ↓
 [LONG-TERM]
   ── The Stormlight Archive (Epic Fantasy — years of reading ahead)
+  🖤 MORE CLASSICS: 20,000 Leagues · The Count of Monte Cristo · H.G. Wells trilogy
+                    Wuthering Heights · 1984 · Brave New World · The Great Gatsby…
 ```
 
 ---
@@ -334,10 +440,11 @@ Your first proper adult fantasy series. No hand-holding, deeply constructed magi
 |:---|:---|
 | 🔒 Never break mid-series | Momentum, emotional continuity, and story logic all depend on reading a series intact |
 | 🌬️ One standalone between every series | Prevents genre fatigue; gives your brain a reset before committing to a new world |
-| 🟣→🟠→🔵→🟢→🔴 Rotate genres in breathers | Each breather introduces a new genre — you build breadth without abandoning your home genre |
+| 🟣→🟠→🔵→🟢→🔴→🖤 Rotate genres in breathers | Each breather introduces a new genre — you build breadth without abandoning your home genre |
 | 📖 Always know your next 2 blocks | Having the next series ready removes the "what do I read next?" paralysis |
 | 🚀 Use reading bursts wisely | Start a new series at the beginning of a month to ride your natural burst momentum |
 | 🧠 Heavier series need longer breathers | After HP (7 books) and Riordan universe (~10 books), take 2 standalones before the next arc |
+| 🖤 Pair short classics together | Verne, Stevenson, and Wilde are all under 300 pages — read two back-to-back in a single breather window |
 
 ---
 
@@ -349,15 +456,21 @@ Your first proper adult fantasy series. No hand-holding, deeply constructed magi
 | 🌬️ **Breather 1** | The Fault in Our Stars | John Green | 🟢 Slice of Life | 1 standalone |
 | **Block 2** | The Kane Chronicles #1–#3 | Rick Riordan | 🟠 Mythology | 3 books |
 | 🌬️ **Breather 2** | The Hitchhiker's Guide | Douglas Adams | 🔵 Sci-Fi | 1 standalone |
+| 🖤 **Classics 2b** | Journey to Centre of Earth + Around the World in 80 Days | Jules Verne | 🖤 Classics | 2 standalones |
 | **Block 3** | Heroes of Olympus #1–#5 | Rick Riordan | 🟣 Fantasy | 5 books |
 | 🌬️ **Breather 3** | The Book Thief | Markus Zusak | 🔴 Historical | 1 standalone |
+| 🖤 **Classics 3b** | The Time Machine + The War of the Worlds | H.G. Wells | 🖤 Classics | 2 standalones |
 | **Block 4** | Trials of Apollo #1–#5 | Rick Riordan | 🟠 Mythology | 5 books |
 | 🌬️ **Breather 4** | John Green standalones | John Green | 🟢 Slice of Life | 1–2 standalones |
+| 🖤 **Classics 4b** | Dracula + Frankenstein | Stoker / Shelley | 🖤 Classics | 2 standalones |
 | **Block 5** | Grishaverse (S&B + SoC) | Leigh Bardugo | 🟣 Fantasy | 5 books |
+| 🖤 **Classics 5b** | Dorian Gray + Jekyll & Hyde | Wilde / Stevenson | 🖤 Classics | 2 standalones |
 | 🌬️ **Breather 5** | The Midnight Library | Matt Haig | 🟢 Slice of Life | 1 standalone |
 | **Block 6** | Mistborn Era 1 | Brandon Sanderson | 🟣 Fantasy | 3 books |
+| 🖤 **Classics 6b** | Jane Eyre | Charlotte Brontë | 🖤 Classics | 1 standalone |
 
 > 🌬️ = Standalone breather — only ever appears **between** completed series, never mid-series.
+> 🖤 = Classic literature — standalone, always read between series blocks.
 
 ---
 
