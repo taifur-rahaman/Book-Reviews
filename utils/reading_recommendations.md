@@ -1,6 +1,6 @@
 # 🗺️ Personal Reading Roadmap & Recommendations
 
-> **Last Updated:** 8th April 2026
+> **Last Updated:** 20th April 2026
 >
 > 💡 **Maintenance note:** Every time you finish a book, update the **"Currently Reading"** and **"Up Next Queue"** sections below to keep recommendations fresh and genre-balanced.
 
@@ -12,8 +12,8 @@ A personalized guide built from your reading history and curated reading roadmap
 
 | **Metric** | **Detail** |
 |:---|:---|
-| 📚 **Books Completed** | 9 books |
-| ⏳ **Currently Reading** | Harry Potter and the Goblet of Fire (Book 4 of 7) |
+| 📚 **Books Completed** | 10 books |
+| ⏳ **Currently Reading** | Harry Potter and the Order of the Phoenix (Book 5 of 7) |
 | 🌟 **Top-Rated Read** | The Titan's Curse & Prisoner of Azkaban (10/10 each) |
 | 🎯 **Dominant Genre** | Fantasy |
 | 📖 **Series Completed** | Percy Jackson and the Olympians ✅ |
@@ -181,9 +181,9 @@ You haven't explored classic literature yet, but these atmospheric, imaginative 
 
 | **Book** | **Author** | **Series** | **Genre** | **Progress** | **Started** |
 |:---|:---|:---|:---:|:---:|:---:|
-| [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | Harry Potter #4 | 🟣 Fantasy | 0 / 700 pages | 2nd April 2026 |
+| [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | J.K. Rowling | Harry Potter #5 | 🟣 Fantasy | 0 / 870 pages | 20th April 2026 |
 
-> 📝 **While you're reading this:** Goblet of Fire is the longest HP book and the series' tonal turning point — everything gets darker and more political from here. Power through to the end; then read Books 5, 6, and 7 back-to-back without stopping for anything else. Don't break the Harry Potter arc.
+> 📝 **While you're reading this:** Order of the Phoenix is the longest and arguably the most emotionally intense HP book. Harry's rage, the Ministry's denial, and the formation of Dumbledore's Army all happen here. This is where the series properly becomes a war story. Push through — the ending is devastating in the best way.
 
 ---
 
@@ -207,8 +207,8 @@ Read all four remaining books consecutively. Do not stop between them.
 
 | **#** | **Book** | **Pages** | **Notes** |
 |:---:|:---|:---:|:---|
-| 4 | Goblet of Fire ← *you are here* | 700 | Longest book, the turning point |
-| 5 | The Order of the Phoenix | 870 | Darkest and most emotional |
+| 4 | [Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) ✅ | 700 | Longest book, the turning point |
+| 5 | The Order of the Phoenix ← *you are here* | 870 | Darkest and most emotional |
 | 6 | The Half-Blood Prince | 607 | Faster-paced, devastating ending |
 | 7 | The Deathly Hallows | 607 | No Hogwarts — just survival |
 
@@ -452,7 +452,7 @@ After adult fantasy, step into adult classics. Jane Eyre is gothic, emotionally 
 
 | **Block** | **What** | **Author** | **Genre** | **Books** |
 |:---:|:---|:---|:---:|:---:|
-| 📖 **Now** | Harry Potter #4–#7 | J.K. Rowling | 🟣 Fantasy | 4 remaining |
+| 📖 **Now** | Harry Potter #5–#7 | J.K. Rowling | 🟣 Fantasy | 3 remaining |
 | 🌬️ **Breather 1** | The Fault in Our Stars | John Green | 🟢 Slice of Life | 1 standalone |
 | **Block 2** | The Kane Chronicles #1–#3 | Rick Riordan | 🟠 Mythology | 3 books |
 | 🌬️ **Breather 2** | The Hitchhiker's Guide | Douglas Adams | 🔵 Sci-Fi | 1 standalone |

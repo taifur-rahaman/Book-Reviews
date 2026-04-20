@@ -23,10 +23,10 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | **Metric** | **Value** |
 | :--- | :---: |
 | **📚 Books Documented** | 10 |
-| **📄 Pages Read** | 2,763 |
-| **⏱️ Total Read Time** | 76h 14m |
-| **✅ Books Completed** | 9 |
-| **📗 Currently Reading** | 1 |
+| **📄 Pages Read** | 3,463 |
+| **⏱️ Total Read Time** | 96h 05m |
+| **✅ Books Completed** | 10 |
+| **📗 Currently Reading** | 0 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
 
@@ -40,7 +40,8 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | 📚 **Title** | ✍️ **Author** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|
-| [Harry Potter and the Goblet of Fire](titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | 0/700 | ⏳ Reading |
+
+*Nothing currently being read. Time to pick something new!*
 
 
 ---
@@ -59,7 +60,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [Harry Potter and the Philosopher's Stone](titles/harry_potter_and_the_philosophers_stone.md) | J.K. Rowling | ⭐ 7/10 | 266/266 | ✅ Completed |
 | [Harry Potter and the Chamber of Secrets](titles/harry_potter_and_the_chamber_of_secrets.md) | J.K. Rowling | ⭐ 8.5/10 | 269/269 | ✅ Completed |
 | [Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md) | J.K. Rowling | ⭐ 10/10 | 348/348 | ✅ Completed |
-| [Harry Potter and the Goblet of Fire](titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | ⭐ -/10 | 0/700 | ⏳ Reading |
+| [Harry Potter and the Goblet of Fire](titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | ⭐ 9/10 | 700/700 | ✅ Completed |
 
 
 
@@ -160,6 +161,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 ---
 
-*Last Updated: 7th April 2026*
+*Last Updated: 20th April 2026*
 
 </div>
