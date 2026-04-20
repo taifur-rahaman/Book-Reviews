@@ -10,11 +10,11 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Metric** | **Value** |
 |:---|:---:|
-| **Total Books Read** | 10 |
+| **Total Books Read** | 11 |
 | **Total Pages Read** | 3,463 |
 | **Total Read Time** | 96h 05m |
 | **Books Completed** | 10 |
-| **Currently Reading** | 0 |
+| **Currently Reading** | 1 |
 | **On Hold** | 0 |
 | **Dropped** | 0 |
 | **Most Read Genre** | Fantasy |
@@ -67,6 +67,7 @@ This document tracks the temporal distribution of books read, organized by genre
 | 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | Fantasy | 8.5/10 | 269 | 8h 5m | ✅ Completed |
 | 3 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | Fantasy | 10.0/10 | 348 | 10h 39m | ✅ Completed |
 | 4 | [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | Fantasy | 9.0/10 | 700 | 19h 51m | ✅ Completed |
+| 5 | [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | Fantasy | -/10 | 810 | 0h 0m | ⏳ Reading |
 
 ---
 
@@ -100,7 +101,7 @@ This document tracks the temporal distribution of books read, organized by genre
 |:---|:---:|:---:|:---:|
 | February 2026 | 1 | 0 | 42 |
 | March 2026 | 3 | 3 | 706 |
-| April 2026 | 1 | 2 | 1,048 |
+| April 2026 | 2 | 2 | 1,048 |
 
 
 ---
@@ -126,8 +127,7 @@ This document tracks the temporal distribution of books read, organized by genre
 
 | **Title** | **Author** | **Genre** | **Pages** | **Start Date** |
 |:---|:---|:---:|:---:|:---:|
-
-*Nothing currently being read. Time to pick something new!*
+| [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | [J.K. Rowling](../authors/jk_rowling.md) | Fantasy | 810 | 20th April 2026 |
 
 ---
 
