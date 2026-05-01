@@ -1,6 +1,6 @@
 # 🗺️ Personal Reading Roadmap & Recommendations
 
-> **Last Updated:** 20th April 2026
+> **Last Updated:** 1st May 2026
 >
 > 💡 **Maintenance note:** Every time you finish a book, update the **"Currently Reading"** and **"Up Next Queue"** sections below to keep recommendations fresh and genre-balanced.
 
@@ -12,12 +12,12 @@ A personalized guide built from your reading history and curated reading roadmap
 
 | **Metric** | **Detail** |
 |:---|:---|
-| 📚 **Books Completed** | 10 books |
-| ⏳ **Currently Reading** | Harry Potter and the Order of the Phoenix (Book 5 of 7) |
-| 🌟 **Top-Rated Read** | The Titan's Curse & Prisoner of Azkaban (10/10 each) |
+| 📚 **Books Completed** | 11 books |
+| ⏳ **Currently Reading** | Harry Potter and the Half-Blood Prince (Book 6 of 7) |
+| 🌟 **Top-Rated Read** | The Titan's Curse, Prisoner of Azkaban & Order of the Phoenix (10/10 each) |
 | 🎯 **Dominant Genre** | Fantasy |
 | 📖 **Series Completed** | Percy Jackson and the Olympians ✅ |
-| 🔜 **Immediate Next** | Finish Harry Potter before anything else |
+| 🔜 **Immediate Next** | Finish Half-Blood Prince, then Deathly Hallows |
 
 ---
 
@@ -35,7 +35,7 @@ You've been living here since the beginning. Your ratings are highest here (avg 
 
 | **Level** | **Theme** | **Series / Book** | **Your Status** |
 |:---:|:---|:---|:---:|
-| **L1** | Your current read | Harry Potter (Books 5–7 remaining) | ⏳ Reading |
+| **L1** | Your current read | Harry Potter (Book 6 of 7 — in progress) | ⏳ Reading |
 | **L2** | Right after Harry Potter | Percy Jackson — Heroes of Olympus | 🔜 Next up |
 | **L2** | Right after Harry Potter | Percy Jackson — Trials of Apollo | 🔜 After Heroes |
 | **L2** | Right after Harry Potter | The Chronicles of Narnia | 🔜 Optional detour |
@@ -181,9 +181,9 @@ You haven't explored classic literature yet, but these atmospheric, imaginative 
 
 | **Book** | **Author** | **Series** | **Genre** | **Progress** | **Started** |
 |:---|:---|:---|:---:|:---:|:---:|
-| [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | J.K. Rowling | Harry Potter #5 | 🟣 Fantasy | 0 / 870 pages | 20th April 2026 |
+| [Harry Potter and the Half-Blood Prince](../titles/harry_potter_and_the_half_blood_prince.md) | J.K. Rowling | Harry Potter #6 | 🟣 Fantasy | 0 / 599 pages | 1st May 2026 |
 
-> 📝 **While you're reading this:** Order of the Phoenix is the longest and arguably the most emotionally intense HP book. Harry's rage, the Ministry's denial, and the formation of Dumbledore's Army all happen here. This is where the series properly becomes a war story. Push through — the ending is devastating in the best way.
+> 📝 **While you're reading this:** Half-Blood Prince is faster-paced than Order of the Phoenix and deeply personal. Dumbledore takes Harry aside to show him Voldemort's past through memories. The identity of the Half-Blood Prince is a genuine surprise. Push through — the ending is devastating in a way you won't see coming.
 
 ---
 
@@ -201,15 +201,15 @@ The queue is organised into **series blocks** (read completely, no skipping) sep
 
 ### 🟣 Block 1 — Harry Potter *(Finish the series)*
 
-> *J.K. Rowling · Fantasy · Books 4–7 remaining*
+> *J.K. Rowling · Fantasy · Books 6–7 remaining*
 
-Read all four remaining books consecutively. Do not stop between them.
+Read the two remaining books consecutively. Do not stop between them.
 
 | **#** | **Book** | **Pages** | **Notes** |
 |:---:|:---|:---:|:---|
 | 4 | [Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) ✅ | 700 | Longest book, the turning point |
-| 5 | The Order of the Phoenix ← *you are here* | 870 | Darkest and most emotional |
-| 6 | The Half-Blood Prince | 607 | Faster-paced, devastating ending |
+| 5 | [Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) ✅ | 810 | Darkest and most emotional |
+| 6 | [Half-Blood Prince](../titles/harry_potter_and_the_half_blood_prince.md) ← *you are here* | 599 | Faster-paced, devastating ending |
 | 7 | The Deathly Hallows | 607 | No Hogwarts — just survival |
 
 ---
@@ -452,7 +452,7 @@ After adult fantasy, step into adult classics. Jane Eyre is gothic, emotionally 
 
 | **Block** | **What** | **Author** | **Genre** | **Books** |
 |:---:|:---|:---|:---:|:---:|
-| 📖 **Now** | Harry Potter #5–#7 | J.K. Rowling | 🟣 Fantasy | 3 remaining |
+| 📖 **Now** | Harry Potter #6–#7 | J.K. Rowling | 🟣 Fantasy | 2 remaining |
 | 🌬️ **Breather 1** | The Fault in Our Stars | John Green | 🟢 Slice of Life | 1 standalone |
 | **Block 2** | The Kane Chronicles #1–#3 | Rick Riordan | 🟠 Mythology | 3 books |
 | 🌬️ **Breather 2** | The Hitchhiker's Guide | Douglas Adams | 🔵 Sci-Fi | 1 standalone |

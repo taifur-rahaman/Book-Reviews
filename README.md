@@ -22,10 +22,10 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 | **Metric** | **Value** |
 | :--- | :---: |
-| **📚 Books Documented** | 11 |
-| **📄 Pages Read** | 3,463 |
-| **⏱️ Total Read Time** | 96h 05m |
-| **✅ Books Completed** | 10 |
+| **📚 Books Documented** | 12 |
+| **📄 Pages Read** | 4,273 |
+| **⏱️ Total Read Time** | 116h 30m |
+| **✅ Books Completed** | 11 |
 | **📗 Currently Reading** | 1 |
 | **⏸️ On Hold** | 0 |
 | **❌ Dropped** | 0 |
@@ -41,7 +41,7 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | 📚 **Title** | ✍️ **Author** | 📄 **Progress** | 🛡️ **Status** |
 |:---|:---|:---:|:---:|
 
-| [Harry Potter and the Order of the Phoenix](titles/harry_potter_and_the_order_of_the_phoenix.md) | J.K. Rowling | 0/810 | ⏳ Reading |
+| [Harry Potter and the Half-Blood Prince](titles/harry_potter_and_the_half_blood_prince.md) | J.K. Rowling | 0/599 | ⏳ Reading |
 
 
 ---
@@ -61,7 +61,8 @@ A personal collection tracking books read — novels, non-fiction, short story c
 | [Harry Potter and the Chamber of Secrets](titles/harry_potter_and_the_chamber_of_secrets.md) | J.K. Rowling | ⭐ 8.5/10 | 269/269 | ✅ Completed |
 | [Harry Potter and the Prisoner of Azkaban](titles/harry_potter_and_the_prisoner_of_azkaban.md) | J.K. Rowling | ⭐ 10/10 | 348/348 | ✅ Completed |
 | [Harry Potter and the Goblet of Fire](titles/harry_potter_and_the_goblet_of_fire.md) | J.K. Rowling | ⭐ 9/10 | 700/700 | ✅ Completed |
-| [Harry Potter and the Order of the Phoenix](titles/harry_potter_and_the_order_of_the_phoenix.md) | J.K. Rowling | ⭐ -/10 | 0/810 | ⏳ Reading |
+| [Harry Potter and the Order of the Phoenix](titles/harry_potter_and_the_order_of_the_phoenix.md) | J.K. Rowling | ⭐ 10/10 | 810/810 | ✅ Completed |
+| [Harry Potter and the Half-Blood Prince](titles/harry_potter_and_the_half_blood_prince.md) | J.K. Rowling | ⭐ -/10 | 0/599 | ⏳ Reading |
 
 
 
@@ -162,6 +163,6 @@ A personal collection tracking books read — novels, non-fiction, short story c
 
 ---
 
-*Last Updated: 20th April 2026*
+*Last Updated: 1st May 2026*
 
 </div>

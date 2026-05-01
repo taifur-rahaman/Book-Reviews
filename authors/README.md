@@ -9,4 +9,4 @@ A directory of author profiles featured in The Bookshelf Archives.
 | [Stephen Chbosky](stephen_chbosky.md) | [The Perks of Being a Wallflower](../titles/the_perks_of_being_a_wallflower.md) |
 
 ---
-*Last Updated: 2nd April 2026*
+*Last Updated: 1st May 2026*

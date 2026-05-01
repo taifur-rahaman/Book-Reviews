@@ -39,8 +39,8 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 | 2 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | 1998 | ✅ |
 | 3 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | 1999 | ✅ |
 | 4 | [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | 2000 | ✅ |
-| 5 | [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | 2003 | ⏳ |
-| 6 | Harry Potter and the Half-Blood Prince | 2005 | ❌ |
+| 5 | [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | 2003 | ✅ |
+| 6 | [Harry Potter and the Half-Blood Prince](../titles/harry_potter_and_the_half_blood_prince.md) | 2005 | ⏳ |
 | 7 | Harry Potter and the Deathly Hallows | 2007 | ❌ |
 
 #### Companion Books
@@ -84,8 +84,9 @@ J.K. Rowling is a British author and philanthropist. She wrote *Harry Potter*, a
 | [Harry Potter and the Chamber of Secrets](../titles/harry_potter_and_the_chamber_of_secrets.md) | 8.5/10 |
 | [Harry Potter and the Prisoner of Azkaban](../titles/harry_potter_and_the_prisoner_of_azkaban.md) | 10.0/10 |
 | [Harry Potter and the Goblet of Fire](../titles/harry_potter_and_the_goblet_of_fire.md) | 9.0/10 |
-| **Average** | **8.6/10** |
+| [Harry Potter and the Order of the Phoenix](../titles/harry_potter_and_the_order_of_the_phoenix.md) | 10.0/10 |
+| **Average** | **8.9/10** |
 
 ---
 
-*Last Updated: 20th April 2026*
+*Last Updated: 1st May 2026*
